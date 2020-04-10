@@ -3,6 +3,8 @@ layout: post
 title: "Tutor Zoom Settings for Maximum Security"
 date: 2020-04-07
 ---
+*By Teresa Lukan, Didi Mudigdo & Susan Sands*
+
 During this time of social distancing, the South Perth Learning Centre alongside many other schools and universities, is making the transition to online learning. With the uptake of users to Zoom there have also been some security concerns. However, with the correct privacy settings and procedures, the chances of what is now known as ‘Zoombombing’ are minimal. If you are an SPLC tutor, here are instructions on how to keep your class meetings secure, and thus help ease the concerns of our students. Please follow these instructions and inform your students that you are following these procedures to keep your online class meetings secure and private.
 
 ## Security Settings When Scheduling a Class
@@ -20,7 +22,7 @@ Under ‘Advanced Options’ make sure ‘Enable Waiting Room’ is ticked. This
 ### Make Sure No One Joins before You Do
 Again under ‘Advanced Options’, make sure the ‘Enable join before host’ is not ticked. This way no one can join the class meeting before you do, and create havoc.
 
-diagram zoom security
+![Zoom scheduling panel](/img/zoom-scheduling-panel-security-settings.png)
 
 ## Security Settings Once the Class has Started
 Once the class has started, here are initiatives to help secure your online meeting.
@@ -31,18 +33,18 @@ When all your students have arrived, lock the meeting to prevent others from joi
 ### Control Screen Sharing
 Make sure you as the tutor are the only one who can share your screen. Click the arrow next to the ‘Share Screen’ button and select ‘Advanced Sharing Options’. Under “Who can share?” choose “Only Host”. Should you need one of your students to show their screen, set this option back to “All Participants” temporarily.
 
-diagram zoom security
+![Zoom sharing panel](/img/zoom-sharing-panel-security-settings.png)
 
 ### Lock Down The Chat Panel
 Keep your students from sending chat messages to you or each other. Open the chat panel by clicking ‘Chat’ on the dashboard below the screen. Once the chat panel is open, click the [...] button on the bottom right corner of this panel. Then, under ‘Participant can chat with’ select ‘No one’. You can enable this and re-disable as required during class.
 
-diagram zoom security
+![Zoom chat panel](/img/zoom-chat-panel-security-settings.png)
 
 Finally, to work around the 40 minute time limit for three or more people in a meeting, simply ask your meeting participants to leave the meeting a couple of minutes before the end of the 40 minute time limit.
 
 If you are having any issues, please feel free to contact us at South Perth Learning Centre.
 
-More Zoom security resources
+## References
 
 University of Washington
 https://itconnect.uw.edu/connect/phones/conferencing/zoom-video-conferencing/security-settings/
