@@ -46,23 +46,23 @@ If you are having any issues, please feel free to contact us at South Perth Lear
 
 ## References
 
-University of Washington
+**University of Washington**  
 [itconnect.uw.edu/connect/phones/conferencing/zoom-video-conferencing/security-settings/](https://itconnect.uw.edu/connect/phones/conferencing/zoom-video-conferencing/security-settings/)
 
-Cornell University
+**Cornell University**  
 [https://it.cornell.edu/zoom/keep-zoom-meetings-private-and-reduce-odds-zoombombing](https://it.cornell.edu/zoom/keep-zoom-meetings-private-and-reduce-odds-zoombombing)
 
-University of Michigan
+**University of Michigan**  
 [its.umich.edu/communication/videoconferencing/zoom/how-to-secure-meetings](https://its.umich.edu/communication/videoconferencing/zoom/how-to-secure-meetings)
 
-Vanderbilt University
+**Vanderbilt University**  
 [news.vanderbilt.edu/2020/04/02/vuit-offers-tips-to-secure-zoom-meetings-avoid-zoombombing/](https://news.vanderbilt.edu/2020/04/02/vuit-offers-tips-to-secure-zoom-meetings-avoid-zoombombing/)
 
-Zoom
+**Zoom**  
 [blog.zoom.us/wordpress/2020/03/20/keep-uninvited-guests-out-of-your-zoom-event/](https://blog.zoom.us/wordpress/2020/03/20/keep-uninvited-guests-out-of-your-zoom-event/)
 
-Toms Guide
+**Toms Guide**  
 [www.tomsguide.com/news/zoom-security-privacy-woes](https://www.tomsguide.com/news/zoom-security-privacy-woes)
 
-Al’s Geek Lab (video)
+**Al’s Geek Lab (video)**  
 [www.youtube.com/watch?v=e5mD6FWrJmw](https://www.youtube.com/watch?v=e5mD6FWrJmw)
