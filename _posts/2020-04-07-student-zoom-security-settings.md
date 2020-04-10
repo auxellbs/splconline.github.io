@@ -3,7 +3,7 @@ layout: post
 title: "Student Zoom Security Settings"
 date: 2020-04-07
 ---
-*By Teresa Lukan, Didi Mudigdo and Susan Sands
+*By Teresa Lukan, Didi Mudigdo and Susan Sands*
 
 Feeling insecure about Zoom security? Fear not, it all comes down to your settings. 
 
@@ -16,7 +16,7 @@ On MacOS: Open your Zoom software, and go to the ‘zoom.us’ menu. From that m
 On Windows PC: If you have an account, open your Zoom software and click on your account image in the top right hand corner.  From the drop down list, click on ‘Check for Updates’.  If you are not up to date, follow the prompts to get the latest, most secure version of Zoom.
 
 ### 2. Be wary of ‘phishing’
-‘Phishing’ is the practice of tricking someone to click a malicious link in an e-mail. When you receive a link for a meeting from your tutor, make sure that e-mail actually came from your tutor. Then, make sure the link looks like “https://zoom.us/...” followed by a string of nine numbers. To be doubly sure, if you are using a browser-based e-mail (e.g. hotmail/gmail) hover your mouse over that link, and look at the bottom left hand corner of your browser. It should also say “https://zoom.us/...”, again followed by a string of numbers.
+‘Phishing’ is the practice of tricking someone to click a malicious link in an e-mail. When you receive a link for a meeting from your tutor, make sure that e-mail actually came from your tutor. Then, make sure the link looks like `https://zoom.us/...` followed by a string of nine numbers. To be doubly sure, if you are using a browser-based e-mail (e.g. hotmail/gmail) hover your mouse over that link, and look at the bottom left hand corner of your browser. It should also say `https://zoom.us/...`, again followed by a string of numbers.
 
 The next two security precautions are initiated by your tutor, however you should be aware of its repercussions, as things may look different than before.
 
@@ -31,22 +31,22 @@ These four steps, along with the procedures taken by your tutor will ensure a sa
 ## References
 
 University of Washington
-https://itconnect.uw.edu/connect/phones/conferencing/zoom-video-conferencing/security-settings/
+[itconnect.uw.edu/connect/phones/conferencing/zoom-video-conferencing/security-settings/](https://itconnect.uw.edu/connect/phones/conferencing/zoom-video-conferencing/security-settings/)
 
 Cornell University
-https://it.cornell.edu/zoom/keep-zoom-meetings-private-and-reduce-odds-zoombombing
+[https://it.cornell.edu/zoom/keep-zoom-meetings-private-and-reduce-odds-zoombombing](https://it.cornell.edu/zoom/keep-zoom-meetings-private-and-reduce-odds-zoombombing)
 
 University of Michigan
-https://its.umich.edu/communication/videoconferencing/zoom/how-to-secure-meetings
+[its.umich.edu/communication/videoconferencing/zoom/how-to-secure-meetings](https://its.umich.edu/communication/videoconferencing/zoom/how-to-secure-meetings)
 
 Vanderbilt University
-https://news.vanderbilt.edu/2020/04/02/vuit-offers-tips-to-secure-zoom-meetings-avoid-zoombombing/
+[https://news.vanderbilt.edu/2020/04/02/vuit-offers-tips-to-secure-zoom-meetings-avoid-zoombombing/](https://news.vanderbilt.edu/2020/04/02/vuit-offers-tips-to-secure-zoom-meetings-avoid-zoombombing/)
 
 Zoom
-https://blog.zoom.us/wordpress/2020/03/20/keep-uninvited-guests-out-of-your-zoom-event/
+[https://blog.zoom.us/wordpress/2020/03/20/keep-uninvited-guests-out-of-your-zoom-event/](https://blog.zoom.us/wordpress/2020/03/20/keep-uninvited-guests-out-of-your-zoom-event/)
 
 Toms Guide
-https://www.tomsguide.com/news/zoom-security-privacy-woes
+[https://www.tomsguide.com/news/zoom-security-privacy-woes](https://www.tomsguide.com/news/zoom-security-privacy-woes)
 
 Al’s Geek Lab (video)
-https://www.youtube.com/watch?v=e5mD6FWrJmw
+[https://www.youtube.com/watch?v=e5mD6FWrJmw](https://www.youtube.com/watch?v=e5mD6FWrJmw)
