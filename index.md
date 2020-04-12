@@ -14,6 +14,6 @@ As a response to COVID-19, the South Perth Learning Centre is committed to keepi
 
 **[SPLC TV](https://www.youtube.com/channel/UCqZuGsnJ8e1OG6SCYH82mdQ)** The SPLC YouTube channel.
 
-Do stay in touch with our latest updates by signing up on our mailing list.
+Do stay in touch with our latest updates by signing up on our [mailing list](http://eepurl.com/gxbfk9).
 
 *South Perth Learning Centre Team*
