@@ -4,7 +4,7 @@ title: SPLC Online
 ---
 ![SPLC logo](/img/splc.png)
 
-As a response to COVID-19, the South Perth Learning Centre is committed to keeping our community connected during this challenging time. This SPLC Online website, auxilliary to our main website is one of the many initiatives that we are currently working on. For now, it is the 'launching pad' for:
+As a response to COVID-19, the South Perth Learning Centre is committed to keeping our community connected during this challenging time. This SPLC Online website, auxilliary to our [main website](http://splc.org.au) is one of the many initiatives that we are currently working on. For now, it is the 'launching pad' for:
 
 **[SPLC Blog](/blog)** A collection of articles written by our staff, tutors and students, since the SPLC COVID-19 lockdown on 20th March 2020.
 
