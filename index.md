@@ -10,7 +10,7 @@ As a response to COVID-19, the South Perth Learning Centre is committed to keepi
 
 **[SPLC Facebook Page](http://facebook.com/splcinc){:target="_blank"}** Our presence on Facebook.
 
-**SPLC Facebook Group** (coming soon) The above Facebook Page is a place for us to make announcements, but the Facebook Group will be a virtual community of SPLC staff, tutors and students where everyone can have a say.
+**[SPLC Facebook Group](https://www.facebook.com/groups/361671848071824/){:target="_blank"}** (coming soon) The above Facebook Page is a place for us to make announcements, but the Facebook Group will be a virtual community of SPLC staff, tutors and students where everyone can have a say.
 
 **[SPLC TV](https://www.youtube.com/channel/UCqZuGsnJ8e1OG6SCYH82mdQ){:target="_blank"}** The SPLC YouTube channel.
 
