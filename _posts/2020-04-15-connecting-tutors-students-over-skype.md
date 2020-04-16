@@ -29,7 +29,7 @@ Here are some screenshots of the different types of unique usernames. Names have
 
 So, how does knowing this solve our problem? Now you know what your unique username looks like. It does not have a consistent look, it depends on what year you joined Skype! But now that you know what to look for, *that* is the unique username you should share with each other, to successfully connect on Skype.
 
-How do you get to it? In Skype, click your own image icon, then go to your `Settings` -> `Account & Profile`:
+How do you get to it? In Skype, click your own image icon, then go to your `Settings` -> `Account & Profile` (again, names have been blurred out to protect the innocent):
 
 ![your own skype name](/img/skypename.png)
 
