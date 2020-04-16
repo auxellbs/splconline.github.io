@@ -21,13 +21,17 @@ At some point, Microsoft/Skype just ran out of identifiers, and from then on, ev
 
 Here are some screenshots of the different types of unique usernames. Names have been blurred out to protect the innocent.
 
-screenshots coming soon
+![oldest skype name](/img/skypename-oldest.png)
+
+![old skype name](/img/skypename-old.png)
+
+![latest skype name](/img/skypename-latest.png)
 
 So, how does knowing this solve our problem? Now you know what your unique username looks like. It does not have a consistent look, it depends on what year you joined Skype! But now that you know what to look for, *that* is the unique username you should share with each other, to successfully connect on Skype.
 
-How do you get to it? In Skype, go to your settings -> profile. Here's some screenshots, note that you have to scroll all the way down to get to your all-important identifier:
+How do you get to it? In Skype, click your own image icon, then go to your `Settings` -> `Account & Profile`:
 
-screenshots coming soon
+![your own skype name](/img/skypename.png)
 
 The field you are after is "Skype Name". Type out (or copy-paste) that into an SMS/email to your counterpart. Now when they type out (or copy-paste) this text into their Skype search box (the one with the magnifying glass) they will be guaranteed to find you.
 
