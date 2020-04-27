@@ -9,4 +9,4 @@ While in social isolation, you can still practice mahjong using an iPad app. Dow
 
 [![YouTube image of Mahjong video](http://img.youtube.com/vi/wPkOPO4u8DI/0.jpg)](https://www.youtube.com/watch?v=wPkOPO4u8DI)
 
-The tiles are not numbered, but download [this cheatsheet]() and have it nearby for reference to make it easier
+The tiles are not numbered, but download [this cheatsheet](/img/MahjongAllTilesSPLC.png) and have it nearby for reference to make it easier.
