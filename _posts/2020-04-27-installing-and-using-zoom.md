@@ -5,7 +5,7 @@ date: 2020-04-27
 ---
 *By Didi Mudigdo and Emma Ariti*
 
-Here are the instructions to install and use Zoom on your Android, iPad and Mac OS device, to attend your classes at SPLC.
+Here are the instructions to install and use Zoom on your Android, iPad and Mac OS device, to attend your online classes at SPLC.
 
 ## Android - Installing and Using Zoom
 
