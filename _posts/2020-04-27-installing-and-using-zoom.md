@@ -15,13 +15,13 @@ Here are the instructions to install and use Zoom on your Android, iPad and Mac 
 
 [![YouTube image of SPLC Zoom Android video](http://img.youtube.com/vi/RH45sEKf9PY/0.jpg)](https://www.youtube.com/watch?v=RH45sEKf9PY)
 
-(For instructions on using Zoom one you have already installed it on your iPad as above, [click this link](https://youtu.be/m5fYQvKBXPU?t=198) to fast forward to the ‘Using Zoom’ part of the Android video)
+(For instructions on using Zoom after you have installed it on your iPad as above, [click this link](https://youtu.be/m5fYQvKBXPU?t=198) to fast forward to the ‘Using Zoom’ part of the Android video)
 
 ## Mac OS X Laptops/Desktops - Installing Zoom
 
 [![YouTube image of SPLC Zoom Android video](http://img.youtube.com/vi/TY-3M8ZnsJY/0.jpg)](https://www.youtube.com/watch?v=TY-3M8ZnsJY)
 
-(For instructions on using Zoom one you have already installed it on your Laptop/Desktop as above, [click this link](https://youtu.be/m5fYQvKBXPU?t=198) to fast forward to the ‘Using Zoom’ part of the Android video)
+(For instructions on using Zoom after you have installed it on your Laptop/Desktop as above, [click this link](https://youtu.be/m5fYQvKBXPU?t=198) to fast forward to the ‘Using Zoom’ part of the Android video)
 
 ## Windows - Installing Zoom
 
