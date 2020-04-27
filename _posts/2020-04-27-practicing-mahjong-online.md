@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Practicing Mahjong Online"
+title: "Practicing Mahjong Online (Video)"
 date: 2020-04-23
 ---
 *By Teresa Lukan*
