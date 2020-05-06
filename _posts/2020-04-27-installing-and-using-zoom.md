@@ -17,20 +17,16 @@ Here are the instructions to install and use Zoom on your Android, iPad and Mac 
 
 (For instructions on using Zoom after you have installed it on your iPad as instructed below, [click this link](https://youtu.be/m5fYQvKBXPU?t=198) to fast forward to the ‘Using Zoom’ part of the Android video)
 
-[![YouTube image of SPLC Zoom Android video](http://img.youtube.com/vi/RH45sEKf9PY/0.jpg){: .img-reponsive}](https://www.youtube.com/watch?v=RH45sEKf9PY)
-
-![YouTube image of SPLC Zoom Android video](http://img.youtube.com/vi/RH45sEKf9PY/0.jpg)
-{: .img-reponsive}
-
+<a href="https://www.youtube.com/watch?v=RH45sEKf9PY"><img class="img-responsive" src="http://img.youtube.com/vi/RH45sEKf9PY/0.jpg"></a>
 
 ## Mac OS X Laptops/Desktops - Installing Zoom
 
 (For instructions on using Zoom after you have installed it on your Mac OS X Laptop/Desktop as instructed below, [click this link](https://youtu.be/m5fYQvKBXPU?t=198) to fast forward to the ‘Using Zoom’ part of the Android video)
 
-[![YouTube image of SPLC Zoom Android video](http://img.youtube.com/vi/TY-3M8ZnsJY/0.jpg)](https://www.youtube.com/watch?v=TY-3M8ZnsJY)
+<a href="https://www.youtube.com/watch?v=TY-3M8ZnsJY"><img class="img-responsive" src="http://img.youtube.com/vi/TY-3M8ZnsJY/0.jpg"></a>
 
 ## Windows 10 - Installing Zoom
 
 (For instructions on using Zoom after you have installed it on your Windows 10 Laptop/Desktop as instructed below, [click this link](https://youtu.be/m5fYQvKBXPU?t=198) to fast forward to the ‘Using Zoom’ part of the Android video)
 
-[![YouTube image of SPLC Zoom Windows 10 video](http://img.youtube.com/vi/ntIPm1J0Kc0/0.jpg)](https://www.youtube.com/watch?v=ntIPm1J0Kc0)
+<a href="https://www.youtube.com/watch?v=ntIPm1J0Kc0"><img class="img-responsive" src="http://img.youtube.com/vi/ntIPm1J0Kc0/0.jpg"></a>
