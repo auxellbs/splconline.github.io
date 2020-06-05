@@ -14,6 +14,8 @@ As a response to COVID-19, the South Perth Learning Centre is committed to keepi
 
 **[SPLC TV](https://www.youtube.com/channel/UCqZuGsnJ8e1OG6SCYH82mdQ){:target="_blank"}** The SPLC YouTube channel.
 
+**[Submit Room Attendance](/covid19-room-attendance)** If you are hiring a room during COVID-19 Phase 3, please submit your room attendance here, as per the WA [COVID-19 Safety Plan](https://splc.org.au/images/Uploads/COVID-19-Safety-Plan-Phase-3-SPLC_05.06.2020.pdf) regulations.
+
 Do stay in touch with our latest updates by signing up on our [mailing list](http://eepurl.com/gxbfk9){:target="_blank"}.
 
 *South Perth Learning Centre Team*
