@@ -16,6 +16,8 @@ As a response to COVID-19, the South Perth Learning Centre is committed to keepi
 
 **[Submit Room Attendance](https://docs.google.com/forms/d/e/1FAIpQLSfLAm9ULOgEg5YfNNzFvz7-IfOSWHGJH2Vix6PUI1gcTJbSrA/viewform?usp=sf_link)** If you are hiring a room during COVID-19 Phase 3, please submit your room attendance here, as per the WA COVID-19 Safety Plan regulations.
 
+**[Claim COVID-19 Course Credit](https://docs.google.com/forms/d/e/1FAIpQLSc33VFLU6QP60v-zXk9KdRqAs53HF0SkRqyzjWz1XnI6eVCUA/viewform?usp=sf_link)** If you missed classes because of the closing of the Centre due to COVID-19, please fill in this form to claim course credit for missed classes.
+
 Do stay in touch with our latest updates by signing up on our [mailing list](http://eepurl.com/gxbfk9){:target="_blank"}.
 
 *South Perth Learning Centre Team*
