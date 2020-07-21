@@ -4,7 +4,7 @@ title: "Renew Your Confidence and Strength with Olympifit"
 date: 2020-07-21
 ---
 
-![Icon Olympifit](https://cdn.pixabay.com/photo/2019/08/23/11/50/lifting-4425595_960_720.jpg)
+<img class="img-responsive" src="https://cdn.pixabay.com/photo/2019/08/23/11/50/lifting-4425595_960_720.jpg">
 
 Let me introduce myself: My name is Yvonne Richardson and I turned 81 years young in February 2020. Like most folk who have seen 3 score years, plus 10, plus another 10….. I have certainly had my share of health problems and of course, still have some ongoing ones. I remain at this point in time… a cancer survivor and I've survived a number of other health battles that we won’t even go into. I also have Osteoporosis. All of this creates in one’s mind and is reinforced by the medical people as well often by friends, acquaintances and even some family – that you are JUST GETTING OLD and it’s time to sit down and accept it. But, as some wise person said: “don’t hark the voices and expectations of others – just do it and live life”.
 
