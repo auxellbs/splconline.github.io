@@ -12,7 +12,7 @@ Some 4 – 5 months ago, at the urging of my daughter, I went along with her to 
  
 At 81, I don’t see myself as “an old lady” anymore after just a few short months. I know now, that as coach Bob continues to challenge me with ever-new programs, I will achieve my full potential and continue to be amazed. I would encourage anyone, who might feel life is all downhill from here to contact Olympifit and have a chat to Coach Bob. 
 
-*Olympifit starts Wednesday the 29th of July at 1.00pm and runs for 8 weeks**.
+*Olympifit starts Wednesday the 29th of July at 1.00pm and runs for 8 weeks*.
 
 To enrol head to: 
 <https://www.splc.org.au/programme>
