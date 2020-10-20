@@ -1,6 +1,6 @@
 **[Submit Loan Device Activity](https://docs.google.com/forms/d/e/1FAIpQLSerOBSnY5S3AXEqv4ekHcfaqtJQuh5e2NTAkXLvcG_eif0f6w/viewform?usp=sf_link)**
 
-Until December 2020, the following devices will be available for 14-day free loan to members. Please call us on 9367 1254 or e-mail us if you are interested!
+Thanks to a grant from [BeConnected](https://beconnected.esafety.gov.au/) and [The Good Things Foundation](https://www.goodthingsfoundation.org.au/what-we-do), until December 2020 the following devices will be available for 14-day free loan to SPLC members (T&Cs apply). Please call us on 9367 1254 or e-mail us admin@splc.org.au if you are interested!
 
 ## Apple iPad
 iPads need little explanation, they have revolutionised consumer use and engagement with the internet. Most recommended for people who already use an iPhone, and would like to explore using an iPhone-ish device with a larger screen. [More info](https://www.apple.com/au/ipad-10.2/)
