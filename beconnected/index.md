@@ -23,3 +23,5 @@ A simple Android smartphone that you can borrow bundled with a basic phone plan,
  
 ## Lenovo Smart Display
 Our state of the art voice activated Smart Display devices are the next tech iteration for everyday users. You use it by speaking to it: "what's the weather like tomorrow?", "play some Cliff Richard", "show me a lasagna recipe" (for privacy concerns, there is a physical off-switch for the microphone). for those curious about the latest in Artificial Intelligence! [More info](https://www.lenovo.com/au/en/virtual-reality-and-smart-devices/smart-home/smart-home-series/Smart-Display-10/p/ZZISZSDSDX1){:target="_blank"}
+
+<img class="img-responsive" src="../img/goodthingsfoundationlogocrop.png">
