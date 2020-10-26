@@ -1,4 +1,4 @@
-<img class="img-responsive" src="../img/be_connected_network_partner_logo_1200x200_splc">
+<img class="img-responsive" src="../img/be_connected_network_partner_logo_1200x200_splc.png">
 
 **[Submit Loan Device Activity](https://docs.google.com/forms/d/e/1FAIpQLSerOBSnY5S3AXEqv4ekHcfaqtJQuh5e2NTAkXLvcG_eif0f6w/viewform?usp=sf_link){:target="_blank"}**
 
