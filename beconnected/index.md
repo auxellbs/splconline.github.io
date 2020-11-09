@@ -2,7 +2,7 @@
 
 **[Submit Loan Device Activity](https://docs.google.com/forms/d/e/1FAIpQLSerOBSnY5S3AXEqv4ekHcfaqtJQuh5e2NTAkXLvcG_eif0f6w/viewform?usp=sf_link){:target="_blank"}**
 
-Thanks to a grant from [BeConnected](https://beconnected.esafety.gov.au/) and [The Good Things Foundation](https://www.goodthingsfoundation.org.au/what-we-do), until December 2020 the following devices will be available for 14-day free loan to SPLC members (T&Cs apply).
+Thanks to a grant from [BeConnected](https://beconnected.esafety.gov.au/) and [The Good Things Foundation](https://www.goodthingsfoundation.org.au/what-we-do), until December 2020 the following devices will be available for 14-day free loan to SPLC members ([T&Cs apply](SPLCDeviceLoanAgreement.pdf), devices training will be provided at SPLC every Friday 12 pm - 1 pm).
 
 Please call us on 9367 1254 or e-mail us admin@splc.org.au if you are interested!
 
