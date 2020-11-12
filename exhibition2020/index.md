@@ -1,4 +1,6 @@
-The SPLC Centre Exhibition is coming up soon!
+# Centre Exhibition 2020
+
+The inaugural SPLC Centre Exhibition is coming up soon!
 
 You will be able to view and experience works by SPLC students and teachers, and the event will feature live music by jazz duo [Polkadot and Moonbeam](http://polkadotandmoonbeam.com.au).
 
