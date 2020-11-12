@@ -7,7 +7,7 @@ You will be able to view and experience works by SPLC students and teachers, and
 **SPLC Centre Exhibition**  
 Friday 4th December  
 South Perth Learning Centre  
-Cnr Sandgate St & South Terrance
+Cnr Sandgate St & South Terrance, South Perth
 
 Exhibiting students, please submit your artist statment here:
 
