@@ -4,8 +4,6 @@ The inaugural SPLC Centre Exhibition is coming up soon!
 
 You will be able to view and experience works by SPLC students and teachers, and the event will feature live music by jazz duo [Polkadot and Moonbeam](http://polkadotandmoonbeam.com.au).
 
-<img class="img-responsive" src="/img/p-and-m.jpg">
-
 **SPLC Centre Exhibition**  
 Friday 4th December  
 South Perth Learning Centre  
