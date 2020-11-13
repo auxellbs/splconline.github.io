@@ -2,7 +2,7 @@
 
 The inaugural SPLC Centre Exhibition is coming up soon!
 
-You will be able to view and experience works by SPLC students and teachers, and the event will feature live music by jazz duo [Polkadot and Moonbeam](http://polkadotandmoonbeam.com.au).
+You will be able to view and experience works by SPLC students and teachers from the Arts and Languages departments, and the event will feature live music by jazz duo [Polkadot and Moonbeam](http://polkadotandmoonbeam.com.au).
 
 **SPLC Centre Exhibition**  
 6 pm - 8 pm Friday 4th December  
