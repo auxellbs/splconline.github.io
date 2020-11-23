@@ -11,4 +11,6 @@ Cnr Sandgate St & South Terrance, South Perth
 
 Exhibiting students, please submit your artist statement here:
 
-**[Click here to submit artist statement](https://docs.google.com/forms/d/e/1FAIpQLSc3zWrGxpJrQuvi_T9NEmM1k1lB_ygEPUYuHCIt-prxu0vwfg/viewform)**
+**![Click here to submit artist statement](https://docs.google.com/forms/d/e/1FAIpQLSc3zWrGxpJrQuvi_T9NEmM1k1lB_ygEPUYuHCIt-prxu0vwfg/viewform)**
+
+<img src="/img/exhibition2020.jpg" class="img-responsive" />
