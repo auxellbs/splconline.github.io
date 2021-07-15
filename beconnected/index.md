@@ -24,4 +24,29 @@ A simple Android smartphone that you can borrow bundled with a basic phone plan,
 ## Lenovo Smart Display
 Our state of the art voice activated Smart Display devices are the next tech iteration for everyday users. You use it by speaking to it: "what's the weather like tomorrow?", "play some Cliff Richard", "show me a lasagna recipe" (for privacy concerns, there is a physical off-switch for the microphone). for those curious about the latest in Artificial Intelligence! [More info](https://www.lenovo.com/au/en/virtual-reality-and-smart-devices/smart-home/smart-home-series/Smart-Display-10/p/ZZISZSDSDX1){:target="_blank"}
 
+
+# Starting July 2021 for a limited time only:
+
+## Free 30-Min One-to-One Digital Skills Session 
+
+Monday and Friday mornings, 30+ sessions available/month!
+
+[Click here to book]()
+
+## Free Digital Skills Classes
+
+### Your Favourite Photos in One Place, One Tap Away
+''Not enough storage'', isn''t that annoying when you want to capture your magnificent weekend trip? Save your photos and storage with the knacks of Google Photos! In this FREE 1-hour course, you will learn the easy, neat, efficient way to stash away your photos in one place. The flexibility of Google Photos--album, tags, sharing--will answer your major photo storage needs. Next time, you won''t have to scroll forever to find that picture you took last Sunday; learn the smart way and your favourite moments are just one tap away. [Enrol Now](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1406&organisation_name=splc&from=org_home)
+
+
+### Getting Rid of Your Clutter on Gumtree
+Want to try a new way to get rid of your clutter? In this 1-hour course you will learn how to sell (or give away) your clutter on gumtree.com.au, a uniquely Australian online classifieds site that was founded over 20 years ago by antipodeans living in the UK. Unlike eBay, Gumtree focuses mainly on local transactions where goods are handed over directly and paid in cash, much like regular classifieds. So come to this FREE course, and join the millions of Australians selling locally on Gumtree! [Enrol Now](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1407&organisation_name=splc&from=org_home)
+
+### More Classes to Come
+[Click here]() to see a sample of the classes we will run soon here at SPLC!
+
+
+
+
+
 <img class="img-responsive" src="../img/goodthingsfoundationlogocrop.png">
