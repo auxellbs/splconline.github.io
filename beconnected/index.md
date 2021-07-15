@@ -1,6 +1,6 @@
 <img class="img-responsive" src="../img/be_connected_network_partner_logo_1200x200_splc.png">
 
-Thanks to a grant from [BeConnected](https://beconnected.esafety.gov.au/) and [The Good Things Foundation](https://www.goodthingsfoundation.org.au/what-we-do), from July 2021 onwards for a limited time only, SPLC is offering FREE digital skills sessions for seniors!
+Thanks to a grant from [BeConnected](https://beconnected.esafety.gov.au/){:target="_blank"} and [The Good Things Foundation](https://www.goodthingsfoundation.org.au/what-we-do){:target="_blank"}, from July 2021 onwards for a limited time only, SPLC is offering FREE digital skills sessions for seniors!
 
 Please call us on 0459 571 736 or e-mail us admin@splc.org.au if you are interested in the free digita skills sessions below.
 
@@ -21,6 +21,6 @@ We have a range of free 1-hour classes coming up, starting with the following:
 Want to try a new way to get rid of your clutter? In this 1-hour course you will learn how to sell (or give away) your clutter on gumtree.com.au, a uniquely Australian online classifieds site that was founded over 20 years ago by antipodeans living in the UK. Unlike eBay, Gumtree focuses mainly on local transactions where goods are handed over directly and paid in cash, much like regular classifieds. So come to this FREE course, and join the millions of Australians selling locally on Gumtree! [Enrol Now](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1407&organisation_name=splc&from=org_home){:target="_blank"}
 
 ### More Classes to Come
-[Click here](){:target="_blank"} to see a sample of the classes we will run soon here at SPLC!
+[Click here](https://splc.org.au/about/blog/8-blog/20-splc-beconnected-course-survey-results){:target="_blank"} to see a sample of the classes we will run soon here at SPLC!
 
 <img class="img-responsive" src="../img/goodthingsfoundationlogocrop.png">
