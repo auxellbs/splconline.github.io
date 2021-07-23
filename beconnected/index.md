@@ -25,4 +25,8 @@ Want to try a new way to get rid of your clutter? In this 1-hour course you will
 ### More Classes to Come
 [Click here](https://splc.org.au/about/blog/8-blog/20-splc-beconnected-course-survey-results){:target="_blank"} to see a sample of the classes we will run soon here at SPLC!
 
+*SPLC Training laptops generously provided by:*
+<img class="img-responsive" src="../img/logo_cosp.png.png">
+
+*Be Connected initiative funded by:*
 <img class="img-responsive" src="../img/goodthingsfoundationlogocrop.png">
