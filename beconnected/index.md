@@ -8,7 +8,7 @@ Please call us on 0459 571 736 if you are interested in these free digita skills
 
 Got your knickers in a knot over an issue with your smartphone, tablet or laptop? Why not sign up for a free one-to-one Digital Skills session with our resident Tech Whizzes Monday and Friday mornings, 30+ sessions available/month!
 
-[[**Click here to book your session**]](https://calendly.com/splc-beconnected/digital-skills?month=2021-08){:target="_blank"}
+[[**Click here to book your session**]](https://calendly.com/splc-beconnected/digital-skills?month=2021-08){:target="_blank" :class='btn'}
 
 ## Free Digital Skills Classes
 
