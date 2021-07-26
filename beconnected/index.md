@@ -2,7 +2,7 @@
 
 Thanks to a grant from [BeConnected](https://beconnected.esafety.gov.au/){:target="_blank"} and [The Good Things Foundation](https://www.goodthingsfoundation.org.au/what-we-do){:target="_blank"}, from July 2021 onwards for a limited time only, South Perth Learning Centre is offering FREE digital skills sessions for SPLC members!
 
-Please call us on 0459 571 736 if you are interested in these free digita skills sessions, or you can book yourself in online by clicking the links below.
+Please call us on 0459 571 736 if you are interested in these free digital skills sessions, or you can book yourself in online by clicking the links below.
 
 ## Free 30-Min One-to-One Digital Skills Session 
 
