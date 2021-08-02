@@ -10,6 +10,8 @@ Got your knickers in a knot over an issue with your smartphone, tablet or laptop
 
 [**Book FREE Session**](https://calendly.com/splc-beconnected/digital-skills?month=2021-08){:target="_blank"}{:.btn}
 
+<img class="img-responsive" src="../img/gumtree.jpg">
+
 ## Free Digital Skills Classes
 
 We have a range of free 1-hour classes coming up, starting with the following:
