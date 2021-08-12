@@ -23,7 +23,7 @@ We have a range of free 1-hour classes coming up, starting with the following:
 
 ### Your Favourite Photos in One Place, One Tap Away
 *1 pm Thu 5th, 12th, 19th, 26th August (Sep-Oct dates TBA)*  
-''Not enough storage'', isn''t that annoying when you want to capture your magnificent weekend trip? In this FREE 1-hour course, you will learn the easy, neat, efficient way to stash away your photos in one place. [[Enrol Now]](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1406&organisation_name=splc&from=org_home){:target="_blank"}
+''Not enough storage'', isn''t that annoying when you want to capture your magnificent weekend trip? In this FREE 1-hour course, you will learn the easy, neat, efficient way to stash away your photos in one place. [[Enrol Now (Android)]](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1406&organisation_name=splc&from=org_home){:target="_blank"} [[Enrol Now (iOS)]](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1411&organisation_name=splc&from=org_home){:target="_blank"}
 
 ### Getting Rid of Your Clutter on Gumtree
 *1 pm Wed 25th August (Sep-Oct dates TBA)*  
