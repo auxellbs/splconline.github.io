@@ -33,7 +33,7 @@ Want to try a new way to get rid of your clutter? In this FREE 1-hour course you
 
 ### eBooks: 10,000 Library Books in Your Pocket
 *1 pm Wed 15th September (Oct dates TBA)*  
-Did you know that using your smartphone/tablet, you can access free eBooks from the WA State Library? Come and learn how to this FREE 1-hour class, and walk out the class with 10,000 Library Books in Your Pocket! [[Enrol Now]](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1408&organisation_name=splc&from=org_home){:target="_blank"}
+Did you know that using your smartphone/tablet, you can access free eBooks from the WA State Library? Come and learn how in this FREE 1-hour class, and walk out the class with 10,000 Library Books in Your Pocket! [[Enrol Now]](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1408&organisation_name=splc&from=org_home){:target="_blank"}
 
 ### Storing & Organising Your Documens on 'The Cloud'
 *1 pm Wed 18th August, 1st & 29th September (Oct dates TBA)*  
