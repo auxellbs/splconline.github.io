@@ -22,8 +22,8 @@ Got your knickers in a knot over an issue with your smartphone, tablet or laptop
 We have a range of free 1-hour classes coming up, starting with the following:
 
 ### Your Favourite Photos in One Place, One Tap Away
-*1 pm Thu 19th, 26th August (Sep-Oct dates TBA)*
-*1 pm Thu 2nd, 9th September (Oct dates TBA)*  
+*Android: 1 pm Thu 19th, 26th August (Sep-Oct dates TBA)*  
+*iOS: 1 pm Thu 2nd, 9th September (Oct dates TBA)*  
 ''Not enough storage'', isn''t that annoying when you want to capture your magnificent weekend trip? In this FREE 1-hour course, you will learn the easy, neat, efficient way to stash away your photos in one place. [[Enrol Now (Android)]](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1406&organisation_name=splc&from=org_home){:target="_blank"} [[Enrol Now (iOS)]](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1411&organisation_name=splc&from=org_home){:target="_blank"}
 
 ### Getting Rid of Your Clutter on Gumtree
@@ -31,11 +31,11 @@ We have a range of free 1-hour classes coming up, starting with the following:
 Want to try a new way to get rid of your clutter? In this FREE 1-hour course you will learn how to sell (or give away) your clutter online using Gumtree [[Enrol Now]](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1407&organisation_name=splc&from=org_home){:target="_blank"}
 
 ### eBooks: 10,000 Library Books in Your Pocket
-*1 pm Wed 15th September (Sep-(Oct dates TBA)*  
+*1 pm Wed 15th September (Oct dates TBA)*  
 Did you know that using your smartphone/tablet, you can access free eBooks from the WA State Library? Come and learn how to this FREE 1-hour class, and walk out the class with 10,000 Library Books in Your Pocket! [[Enrol Now]](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1408&organisation_name=splc&from=org_home){:target="_blank"}
 
 ### Storing & Organising Your Documens on 'The Cloud'
-*1 pm Wed 18th August, 1st & 29th September (Sep-Oct dates TBA)*  
+*1 pm Wed 18th August, 1st & 29th September (Oct dates TBA)*  
 You might have heard of friends and organisations organsing photos, bills, tax documents etc. on ''The Cloud''. In this FREE 1-hour class, you will learn how to use The Cloud to safely store and organise your documents digitally, and have them instantly accessible across your devices. [[Enrol Now]](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1409&organisation_name=splc&from=org_home){:target="_blank"}
 
 ### More Classes to Come...
