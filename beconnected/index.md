@@ -33,7 +33,7 @@ Want to try a new way to get rid of your clutter? In this FREE 1-hour course you
 
 ### Your Vaccination Certificate on Your Phone
 *1 pm Wed 8th September (Oct dates TBA)*
-You''ve had your COVID vaccination, and now you want to be able to substantiate it conveniently using your phone. This involves having your myGov & Medicare online accounts in order and available on your phone. Join this FREE 1-hour class to get this all sorted! 
+You''ve had your COVID vaccination, and now you want to be able to substantiate it conveniently using your phone. This involves having your myGov & Medicare online accounts in order and available on your phone. Join this FREE 1-hour class to get this all sorted! [[Enrol Now]](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1433&organisation_name=splc&from=org_home){:target="_blank"}
 
 ### eBooks: 10,000 Library Books in Your Pocket
 *1 pm Wed 15th September (Oct dates TBA)*  
