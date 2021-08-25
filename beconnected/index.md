@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FREE Digital Skills Classes @ SPLC
+title: FREE Digital Skills Classes @ South Perth Learning Centre
 ---
 <img class="img-responsive" src="../img/be_connected_network_partner_logo_1200x200_splc.png">  
 
