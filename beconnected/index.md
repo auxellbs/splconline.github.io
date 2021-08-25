@@ -4,18 +4,17 @@ title: FREE Digital Skills Classes @ SPLC
 ---
 <img class="img-responsive" src="../img/be_connected_network_partner_logo_1200x200_splc.png">  
 
-[[**One-on-One Sessions**](#one2one)] [[**Group Classes**](#group)]
+[[**One-to-One Sessions**](#one2one)] [[**Group Classes**](#group)]
 
-Thanks to a grant from [BeConnected](https://beconnected.esafety.gov.au/){:target="_blank"} and [The Good Things Foundation](https://www.goodthingsfoundation.org.au/what-we-do){:target="_blank"}, from July 2021 onwards for a limited time only, South Perth Learning Centre is offering FREE digital skills sessions!
+Thanks to a grant from [The Good Things Foundation](https://www.goodthingsfoundation.org.au/what-we-do){:target="_blank"}, from July 2021 onwards for a limited time only, South Perth Learning Centre is offering FREE digital skills one-to-one sessions and group classes!
 
 Please call us on 0459 571 736 to book yourself into these free digital skills sessions held at our centre [96 South Terrace South Perth](https://g.page/splcinc?share){:target="_blank"}, or you can book online by clicking the links below.
 
-## <a name="one2one"></a>Free 30-Min One-to-One Phone/Tablet/Laptop Troubleshooting 
+## <a name="one2one"></a> Free Digital Skills One-to-One Sessions
+Got your knickers in a knot over an issue with your smartphone, tablet or laptop? Why not sign up for a free individual troubleshooting session with our resident Tech Whizzes? Sessions are available Tuesday and Friday mornings. (Limit 4 x 30 min free sessions per person.)
 
-Got your knickers in a knot over an issue with your smartphone, tablet or laptop? Why not sign up for a one-to-one troubleshooting session with our resident Tech Whizzes? Sessions are available Tuesday and Friday mornings. (Limit 4 x 30 min free sessions per person.)
 
-
-[**Book FREE Session**](https://calendly.com/splc-beconnected/digital-skills?month=2021-08){:target="_blank"}{:.btn}
+[**Book FREE One-to-One Session**](https://calendly.com/splc-beconnected/digital-skills?month=2021-08){:target="_blank"}{:.btn}
 
 <img class="img-responsive" src="../img/gumtree.jpg">
 
