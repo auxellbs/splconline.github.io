@@ -11,10 +11,10 @@ Thanks to a grant from [The Good Things Foundation](https://www.goodthingsfounda
 Please call us on 0459 571 736 to book yourself into these free digital skills sessions held at our centre [96 South Terrace South Perth](https://g.page/splcinc?share){:target="_blank"}, or you can book online by clicking the links below.
 
 ## <a name="one2one"></a> Free Digital Skills One-to-One Sessions
-Got your knickers in a knot over an issue with your smartphone, tablet or laptop? Why not sign up for a free individual troubleshooting session with our resident Tech Whizzes? Sessions are available Tuesday and Friday mornings. (Limit 4 x 30 min free sessions per person.)
+Got your knickers in a knot over a problem with your smartphone, tablet or laptop? You have a new device, but you don't really know what it can do? Why not sign up for a free one-to-one 30-minute troubleshooting session with our resident Tech Whizzes! Sessions are available every Tuesday and Friday mornings 10 am - 12 pm.
 
 
-[Book FREE One-to-One Session](https://calendly.com/splc-beconnected/digital-skills?month=2021-08){:target="_blank"}{:.btn}
+[Book FREE One-to-One 30-Minute Session](https://calendly.com/splc-beconnected/digital-skills?month=2021-08){:target="_blank"}{:.btn}
 
 <img class="img-responsive" src="../img/gumtree.jpg">
 
