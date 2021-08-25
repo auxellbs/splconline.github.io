@@ -27,9 +27,17 @@ We have a range of free 1-hour group classes coming up, starting with the follow
 *iOS: 1 pm Thu 2nd, 9th September (Oct dates TBA)*  
 ''Not enough storage'', isn''t that annoying when you want to capture your magnificent weekend trip? In this FREE 1-hour course, you will learn the easy, neat, efficient way to stash away your photos in one place. [[Enrol Now (Android)]](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1406&organisation_name=splc&from=org_home){:target="_blank"} [[Enrol Now (iOS)]](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1411&organisation_name=splc&from=org_home){:target="_blank"}
 
+[Enrol Now (iOS)](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1411&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}  
+[Enrol Now (Android)](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1406&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+
+---
+
 ### Getting Rid of Your Clutter on Gumtree
 *1 pm Wed 25th August, 22nd September (Oct dates TBA)*  
 Want to try a new way to get rid of your clutter? In this FREE 1-hour course you will learn how to sell (or give away) your clutter online using Gumtree [[Enrol Now]](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1407&organisation_name=splc&from=org_home){:target="_blank"}
+[Enrol Now)](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1407&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+
+---
 
 ### Your Vaccination Certificate on Your Phone
 *1 pm Wed 8th September (Oct dates TBA)*
