@@ -4,7 +4,7 @@ title: FREE Digital Skills Classes @ SPLC
 ---
 <img class="img-responsive" src="../img/be_connected_network_partner_logo_1200x200_splc.png">  
 
-<font size="+1">[[**One-on-One Sessions**](#one2one)] [[**Group Classes**](#group)]</font>
+[[**One-on-One Sessions**](#one2one)] [[**Group Classes**](#group)]
 
 Thanks to a grant from [BeConnected](https://beconnected.esafety.gov.au/){:target="_blank"} and [The Good Things Foundation](https://www.goodthingsfoundation.org.au/what-we-do){:target="_blank"}, from July 2021 onwards for a limited time only, South Perth Learning Centre is offering FREE digital skills sessions!
 
