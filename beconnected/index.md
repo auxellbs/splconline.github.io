@@ -14,7 +14,7 @@ Please call us on 0459 571 736 to book yourself into these free digital skills s
 Got your knickers in a knot over a problem with your smartphone, tablet or laptop? You have a new device, but you don't really know what it can do? Why not sign up for a free one-to-one 30-minute troubleshooting session with our resident Tech Whizzes! Sessions are available every Tuesday and Friday mornings 10 am - 12 pm.
 
 
-[Book FREE One-to-One 30-Minute Session](https://calendly.com/splc-beconnected/digital-skills?month=2021-08){:target="_blank"}{:.btn}
+[Book FREE One-to-One 30-Minute Session](https://calendly.com/splc-beconnected/digital-skills?month=2021-09){:target="_blank"}{:.btn}
 
 <img class="img-responsive" src="../img/gumtree.jpg">
 
