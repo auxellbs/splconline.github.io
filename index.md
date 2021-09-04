@@ -43,7 +43,7 @@ Want to try a new way to get rid of your clutter? In this FREE 1-hour course you
 *1 pm Wed 8th September (Oct dates TBA)*
 You''ve had your COVID vaccination, and now you want to be able to substantiate it conveniently using your phone. This involves having your myGov & Medicare online accounts in order and available on your phone. Join this FREE 1-hour class to get this all sorted!
 
-[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1433&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol](https://docs.google.com/forms/d/e/1FAIpQLSf1BWKNcViD4-tdzi4b4cIvrHCW6SW9B87VjcjOoB5lfhzkew/viewform?usp=sf_link){:target="_blank"}{:.btn}
 
 ---
 
