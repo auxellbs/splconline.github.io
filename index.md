@@ -39,6 +39,14 @@ Want to try a new way to get rid of your clutter? In this FREE 1-hour course you
 
 ---
 
+### Mindfulness & Sleep Meditation Apps on Your Smartphone
+*1 pm Wed 6th October (Nov dates TBA)*
+Thanks to the advances of technology, there are now smartphone apps that help you with your mindfulness practice. In this FREE 1-hour class, we will survey the different types of free and paid mindfulness and meditation apps that are available, and discuss the pros and cons of the different types.  
+
+[Enrol](https://docs.google.com/forms/d/e/1FAIpQLSefAmOFvI0nJ5ihJ_CqhZK8L-0aRPkAv-VZcViMdQjFHHLL-Q/viewform?usp=sf_link){:target="_blank"}{:.btn}
+
+---
+
 ### Your Vaccination Certificate on Your Phone
 *12 pm Wed 22nd September, 12pm Fri 24th September, 1 pm Wed 13th October*  
 You''ve had your COVID vaccination, and now you want to be able to substantiate it conveniently using your phone. This involves having your myGov & Medicare online accounts in order and available on your phone. Join this FREE 1-hour class to get this all sorted!
