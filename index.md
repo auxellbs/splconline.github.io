@@ -39,7 +39,7 @@ Want to try a new way to get rid of your clutter? In this FREE 1-hour course you
 
 ---
 
-### Mindfulness & Sleep Meditation Apps on Your Smartphone
+### Mindfulness & Sleep Meditation Apps on Your Smartphone  
 *1 pm Wed 6th October (Nov dates TBA)*
 Thanks to the advances of technology, there are now smartphone apps that help you with your mindfulness practice. In this FREE 1-hour class, we will survey the different types of free and paid mindfulness and meditation apps that are available, and discuss the pros and cons of the different types.  
 
