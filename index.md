@@ -35,7 +35,7 @@ We have a range of free 1-hour group classes coming up, starting with the follow
 *1 pm Wed 22nd September, 20th October (Nov dates TBA)*  
 Want to try a new way to get rid of your clutter? In this FREE 1-hour course you will learn how to sell (or give away) your clutter online using Gumtree.
 
-[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1407&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol](https://docs.google.com/forms/d/e/1FAIpQLSdyHjk8QBYIBm1QFgm4XSpf65_OK3405PxJqzzzOzbxTPqOCg/viewform?usp=sf_link){:target="_blank"}{:.btn}
 
 ---
 
@@ -59,7 +59,7 @@ You''ve had your COVID vaccination, and now you want to be able to substantiate 
 *1 pm Wed 15th September, 27th October (Nov dates TBA)*  
 Did you know that using your smartphone/tablet, you can access free eBooks from the WA State Library? Come and learn how in this FREE 1-hour class, and walk out the class with 10,000 Library Books in Your Pocket!
 
-[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1408&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol](https://docs.google.com/forms/d/e/1FAIpQLSfRKA_0ElcFoU61C2OPpSJusj9fwhUGEndnyfNAM2Et8w-4bQ/viewform?usp=sf_link){:target="_blank"}{:.btn}
 
 ---
 
