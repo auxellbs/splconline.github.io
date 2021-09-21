@@ -56,7 +56,7 @@ You've had your COVID vaccination, and now you want to be able to substantiate i
 ---
 
 ### eBooks: 10,000 Library Books in Your Pocket
-*1 pm Wed 15th September, 27th October (Nov dates TBA)*  
+*1 pm 27th October (Nov dates TBA)*  
 Did you know that using your smartphone/tablet, you can access free eBooks from the WA State Library? Come and learn how in this FREE 1-hour class, and walk out the class with 10,000 Library Books in Your Pocket!
 
 [Enrol](https://docs.google.com/forms/d/e/1FAIpQLSfRKA_0ElcFoU61C2OPpSJusj9fwhUGEndnyfNAM2Et8w-4bQ/viewform?usp=sf_link){:target="_blank"}{:.btn}
