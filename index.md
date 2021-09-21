@@ -49,7 +49,7 @@ Thanks to the advances of technology, there are now smartphone apps that help yo
 
 ### Your Vaccination Certificate on Your Phone
 *12 pm Wed 22nd September, 12pm Fri 24th September, 1 pm Wed 13th October*  
-You''ve had your COVID vaccination, and now you want to be able to substantiate it conveniently using your phone. This involves having your myGov & Medicare online accounts in order and available on your phone. Join this FREE 1-hour class to get this all sorted!
+You've had your COVID vaccination, and now you want to be able to substantiate it conveniently using your phone. This involves having your myGov & Medicare online accounts in order and available on your phone. Join this FREE 1-hour class to get this all sorted!
 
 [Enrol](https://docs.google.com/forms/d/e/1FAIpQLSf1BWKNcViD4-tdzi4b4cIvrHCW6SW9B87VjcjOoB5lfhzkew/viewform?usp=sf_link){:target="_blank"}{:.btn}
 
@@ -63,7 +63,7 @@ Did you know that using your smartphone/tablet, you can access free eBooks from 
 
 ---
 
-### Storing & Organising Your Documens on 'The Cloud'
+### Storing & Organising Your Documents on 'The Cloud'
 *1 pm Wed 18th August, 1st & 29th September (Oct dates TBA)*  
 You might have heard of friends and organisations organsing photos, bills, tax documents etc. on ''The Cloud''. In this FREE 1-hour class, you will learn how to use The Cloud to safely store and organise your documents digitally, and have them instantly accessible across your devices.
 
