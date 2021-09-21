@@ -32,7 +32,7 @@ We have a range of free 1-hour group classes coming up, starting with the follow
 ---
 
 ### Getting Rid of Your Clutter on Gumtree
-*1 pm Wed 22nd September, 20th October (Nov dates TBA)*  
+*1 pm 20th October (Nov dates TBA)*  
 Want to try a new way to get rid of your clutter? In this FREE 1-hour course you will learn how to sell (or give away) your clutter online using Gumtree.
 
 [Enrol](https://docs.google.com/forms/d/e/1FAIpQLSdyHjk8QBYIBm1QFgm4XSpf65_OK3405PxJqzzzOzbxTPqOCg/viewform?usp=sf_link){:target="_blank"}{:.btn}
