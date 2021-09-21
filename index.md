@@ -49,7 +49,7 @@ Thanks to the advances of technology, there are now smartphone apps that help yo
 
 ### Your Vaccination Certificate on Your Phone
 *12 pm Wed 22nd September, 12pm Fri 24th September, 1 pm Wed 13th October*  
-You've had your COVID vaccination, and now you want to be able to substantiate it conveniently using your phone. This involves having your myGov & Medicare online accounts in order and available on your phone. Join this FREE 1-hour class to get this all sorted!
+You've had your COVID vaccination, and now you want to be able to substantiate it conveniently using your phone. This involves having your myGov & Medicare online accounts in order and available on your phone. Join this FREE 1-hour class to sort all of this out!
 
 [Enrol](https://docs.google.com/forms/d/e/1FAIpQLSf1BWKNcViD4-tdzi4b4cIvrHCW6SW9B87VjcjOoB5lfhzkew/viewform?usp=sf_link){:target="_blank"}{:.btn}
 
