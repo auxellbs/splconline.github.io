@@ -23,11 +23,11 @@ Got your knickers in a knot over a problem with your smartphone, tablet or lapto
 We have a range of free 1-hour group classes coming up, starting with the following:
 
 ### Your Favourite Photos in One Place, One Tap Away
-*Android: 1 pm Thu 19th, 26th August (Oct dates TBA)*  
-*iOS: 1 pm Thu 2nd, 9th, 16th, 23rd September (Oct dates TBA)*  
+*Android: 1 pm Thu 7th, 28th October, 11th, 25th November August (Dec dates TBA)*  
+*iOS: 1 pm Thu 21st October, 4th, 18th November, 2nd December (more Dec dates TBA)*  
 ''Not enough storage'', isn''t that annoying when you want to capture your magnificent weekend trip? In this FREE 1-hour course, you will learn the easy, neat, efficient way to stash away your photos in one place.
 
-[Enrol (iOS)](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1411&organisation_name=splc&from=org_home){:target="_blank"}{:.btn} [Enrol (Android)](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1406&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol (iOS)](https://docs.google.com/forms/d/e/1FAIpQLSesynXBTyD7JqahQ8ecv9Xnlw4cMoRA9_G5lAJa9FaMqgg1HQ/viewform?usp=sf_link){:target="_blank"}{:.btn} [Enrol (Android)](https://docs.google.com/forms/d/e/1FAIpQLScoVrlyw_8JA2RMlicWWnr2R-AlUVmGrG5w4_Flzv5Q4iIyag/viewform?usp=sf_link){:target="_blank"}{:.btn}
 
 ---
 
