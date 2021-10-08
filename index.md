@@ -32,7 +32,7 @@ We have a range of free 1-hour group classes coming up, starting with the follow
 ---
 
 ### Getting Rid of Your Clutter on Gumtree
-*1 pm 20th October (Nov dates TBA)*  
+*1 pm 20th October (Dec dates TBA)*  
 Want to try a new way to get rid of your clutter? In this FREE 1-hour course you will learn how to sell (or give away) your clutter online using Gumtree.
 
 [Enrol](https://docs.google.com/forms/d/e/1FAIpQLSdyHjk8QBYIBm1QFgm4XSpf65_OK3405PxJqzzzOzbxTPqOCg/viewform?usp=sf_link){:target="_blank"}{:.btn}
@@ -40,7 +40,7 @@ Want to try a new way to get rid of your clutter? In this FREE 1-hour course you
 ---
 
 ### Mindfulness & Sleep Meditation Apps on Your Smartphone  
-*1 pm Wed 6th October (Nov dates TBA)*  
+*1 pm Wed 6th October, 24th November (Dec dates TBA)*  
 Thanks to the advances of technology, there are now smartphone apps that help you with your mindfulness practice. In this FREE 1-hour class, we will survey the different types of free and paid mindfulness and meditation apps that are available, and discuss the pros and cons of the different types.  
 
 [Enrol](https://docs.google.com/forms/d/e/1FAIpQLSefAmOFvI0nJ5ihJ_CqhZK8L-0aRPkAv-VZcViMdQjFHHLL-Q/viewform?usp=sf_link){:target="_blank"}{:.btn}
@@ -56,7 +56,7 @@ You've had your COVID vaccination, and now you want to be able to substantiate i
 ---
 
 ### eBooks: 10,000 Library Books in Your Pocket
-*1 pm 27th October (Nov dates TBA)*  
+*1 pm Wed 27th October, 10th November (Dec dates TBA)*  
 Did you know that using your smartphone/tablet, you can access free eBooks from the WA State Library? Come and learn how in this FREE 1-hour class, and walk out the class with 10,000 Library Books in Your Pocket!
 
 [Enrol](https://docs.google.com/forms/d/e/1FAIpQLSfRKA_0ElcFoU61C2OPpSJusj9fwhUGEndnyfNAM2Et8w-4bQ/viewform?usp=sf_link){:target="_blank"}{:.btn}
