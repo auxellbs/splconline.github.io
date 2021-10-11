@@ -64,7 +64,7 @@ Did you know that using your smartphone/tablet, you can access free eBooks from 
 ---
 
 ### Storing & Organising Your Documents on 'The Cloud'
-*1 pm Wed 29th September (Oct dates TBA)*  
+*1 pm Wed 3rd November (Dec dates TBA)*  
 You might have heard of friends and organisations organsing photos, bills, tax documents etc. on ''The Cloud''. In this FREE 1-hour class, you will learn how to use The Cloud to safely store and organise your documents digitally, and have them instantly accessible across your devices.
 
 [Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1409&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
