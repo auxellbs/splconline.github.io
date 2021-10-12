@@ -6,9 +6,9 @@ title: FREE Computer & Smartphone Classes @ South Perth Learning Centre
 
 [[**One-on-One Sessions**](#one2one)] [[**Group Classes**](#group)]
 
-For a limited time only, South Perth Learning Centre is offering FREE computer classes & smartphone classes, as personal one-to-one sessions or group classes!
+For a limited time only, South Perth Learning Centre is offering FREE computer classes & smartphone classes for seniors, as personal one-to-one sessions or group classes!
 
-Please call us on 0459 571 736 to book yourself into these free digital skills sessions held at our centre [96 South Terrace South Perth WA 6101](https://g.page/splcinc?share){:target="_blank"}, or you can book online by clicking the links below.
+Please call us on 0459 571 736 to book your free digital skills sessions which are held at our centre [96 South Terrace South Perth WA 6101](https://g.page/splcinc?share){:target="_blank"}, or you can book online by clicking the links below.
 
 ## <a name="one2one"></a> Free Digital Skills One-on-One Sessions
 Got your knickers in a knot over a problem with your smartphone, tablet or laptop? You have a new device, but you don't really know what it can do? Why not sign up for a free personal one-on-one 30-minute troubleshooting session with our resident Tech Whizzes! Sessions are available every Tuesday and Friday mornings 10 am - 12 pm.
