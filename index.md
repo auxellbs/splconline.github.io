@@ -51,7 +51,10 @@ Thanks to the advances of technology, there are now smartphone apps that help yo
 *1 pm Fri 29th October, 12:30 pm Fri 12th November, 1 pm Wed 17th November, 8th December*  
 You've had your COVID vaccination, and now you want to be able to substantiate it conveniently using your phone. This involves having your myGov & Medicare online accounts in order and available on your phone. Join this FREE 1-hour class to sort all of this out!
 
-*Note: If you're a Qantas Frequent Flyer, we will also help you claim the [1000 points Qantas awards to vaccinated members](https://www.qantas.com/au/en/frequent-flyer/member-offers/been-vaccinated-be-rewarded.html){:target="_blank"} and enter their lucky draw for a year's worth of free flights, Accor accommodation or BP fuel.*
+*Bonus: If you're a Qantas Frequent Flyer, we will also help you claim the [1000 points Qantas awards to vaccinated members](https://www.qantas.com/au/en/frequent-flyer/member-offers/been-vaccinated-be-rewarded.html){:target="_blank"} and enter their lucky draw for a year's worth of free flights, Accor accommodation or BP fuel.*
+
+*Another Bonus: Bring your passport, and we can also setup your [internationally-recognised vaccination passport](https://www.abc.net.au/news/2021-10-19/international-covid-vaccine-certificate-passport/100548596){:target="_blank"}.*
+
 
 [Enrol](https://docs.google.com/forms/d/e/1FAIpQLSf1BWKNcViD4-tdzi4b4cIvrHCW6SW9B87VjcjOoB5lfhzkew/viewform?usp=sf_link){:target="_blank"}{:.btn}
 
