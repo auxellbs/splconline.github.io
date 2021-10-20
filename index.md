@@ -13,14 +13,25 @@ Please call us on 0459 571 736 to book your free digital skills sessions which a
 ## <a name="one2one"></a> Free Digital Skills One-on-One Sessions
 Got your knickers in a knot over a problem with your smartphone, tablet or laptop? You have a new device, but you don't really know what it can do? Why not sign up for a free personal one-on-one 30-minute troubleshooting session with our resident Tech Whizzes! Sessions are available every Tuesday and Friday mornings 10 am - 12 pm.
 
-
 [Book FREE One-on-One 30-Minute Session](https://calendly.com/splc-beconnected/digital-skills?month=2021-09){:target="_blank"}{:.btn}
 
 <img class="img-responsive" src="img/gumtree.jpg">
 
 ## <a name="group"></a>Free Digital Skills Group Classes
 
-We have a range of free 1-hour group classes coming up, starting with the following:
+We have a wide range of free 1-hour group classes, these classes have a maximum of 6 students to ensure sufficient individual attention:
+
+### Your Vaccination Certificate on Your Phone
+*12:30 pm Tue 26th October, 12:30 pm Fri 12th November, 1 pm Wed 17th November, 8th December*  
+You've had your COVID vaccination, and now you want to be able to substantiate it conveniently using your phone. This involves having your myGov & Medicare online accounts in order and available on your phone. Join this FREE 1-hour class to sort all of this out!
+
+*Bonus: If you're a Qantas Frequent Flyer, we will also help you claim the [1000 points Qantas awards to vaccinated members](https://www.qantas.com/au/en/frequent-flyer/member-offers/been-vaccinated-be-rewarded.html){:target="_blank"} and enter their lucky draw for a year's worth of free flights, Accor accommodation or BP fuel.*
+
+*Another Bonus: Bring your passport, and we can also setup your [internationally-recognised vaccination passport](https://www.abc.net.au/news/2021-10-19/international-covid-vaccine-certificate-passport/100548596){:target="_blank"}.*
+
+[Enrol](https://docs.google.com/forms/d/e/1FAIpQLSf1BWKNcViD4-tdzi4b4cIvrHCW6SW9B87VjcjOoB5lfhzkew/viewform?usp=sf_link){:target="_blank"}{:.btn}
+
+---
 
 ### Your Favourite Photos in One Place, One Tap Away
 *Android: 1 pm Thu 7th, 28th October; 11th, 25th November (Dec dates TBA)*  
@@ -47,18 +58,7 @@ Thanks to the advances of technology, there are now smartphone apps that help yo
 
 ---
 
-### Your Vaccination Certificate on Your Phone
-*12:30 pm Tue 26th October, 12:30 pm Fri 12th November, 1 pm Wed 17th November, 8th December*  
-You've had your COVID vaccination, and now you want to be able to substantiate it conveniently using your phone. This involves having your myGov & Medicare online accounts in order and available on your phone. Join this FREE 1-hour class to sort all of this out!
 
-*Bonus: If you're a Qantas Frequent Flyer, we will also help you claim the [1000 points Qantas awards to vaccinated members](https://www.qantas.com/au/en/frequent-flyer/member-offers/been-vaccinated-be-rewarded.html){:target="_blank"} and enter their lucky draw for a year's worth of free flights, Accor accommodation or BP fuel.*
-
-*Another Bonus: Bring your passport, and we can also setup your [internationally-recognised vaccination passport](https://www.abc.net.au/news/2021-10-19/international-covid-vaccine-certificate-passport/100548596){:target="_blank"}.*
-
-
-[Enrol](https://docs.google.com/forms/d/e/1FAIpQLSf1BWKNcViD4-tdzi4b4cIvrHCW6SW9B87VjcjOoB5lfhzkew/viewform?usp=sf_link){:target="_blank"}{:.btn}
-
----
 
 ### eBooks: 10,000 Library Books in Your Pocket
 *1 pm Wed 27th October, 10th November (Dec dates TBA)*  
