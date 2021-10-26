@@ -22,7 +22,7 @@ Got your knickers in a knot over a problem with your smartphone, tablet or lapto
 We have a wide range of free 1-hour group classes, these classes have a maximum of 6 students to ensure sufficient individual attention:
 
 ### Your Vaccination Certificate on Your Phone
-*12:30 pm Tue 9th Nov, 23rd Nov, 7th Dec, 21st Dec  
+*12:30 pm Tue 9th Nov, 23rd Nov, 7th Dec, 21st Dec*  
 You've had your COVID vaccination, and now you want to be able to substantiate it conveniently using your phone. This involves having your myGov & Medicare online accounts in order and available on your phone. Join this FREE 1-hour class to sort all of this out!
 
 *Bonus: If you're a Qantas Frequent Flyer, we will also help you claim the [1000 points Qantas awards to vaccinated members](https://www.qantas.com/au/en/frequent-flyer/member-offers/been-vaccinated-be-rewarded.html){:target="_blank"} and enter their lucky draw for a year's worth of free flights, Accor accommodation or BP fuel.*
@@ -51,14 +51,12 @@ Want to try a new way to get rid of your clutter? In this FREE 1-hour course you
 ---
 
 ### Mindfulness & Sleep Meditation Apps on Your Smartphone  
-*1 pm Wed 6th October, 24th November (Dec dates TBA)*  
+*1 pm Wed 24th November (Dec dates TBA)*  
 Thanks to the advances of technology, there are now smartphone apps that help you with your mindfulness practice. In this FREE 1-hour class, we will survey the different types of free and paid mindfulness and meditation apps that are available, and discuss the pros and cons of the different types.  
 
 [Enrol](https://docs.google.com/forms/d/e/1FAIpQLSefAmOFvI0nJ5ihJ_CqhZK8L-0aRPkAv-VZcViMdQjFHHLL-Q/viewform?usp=sf_link){:target="_blank"}{:.btn}
 
 ---
-
-
 
 ### eBooks: 10,000 Library Books in Your Pocket
 *1 pm Wed 27th October, 10th November (Dec dates TBA)*  
