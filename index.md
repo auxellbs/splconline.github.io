@@ -22,7 +22,7 @@ Got your knickers in a knot over a problem with your smartphone, tablet or lapto
 We have a wide range of free 1-hour group classes, these classes have a maximum of 6 students to ensure sufficient individual attention:
 
 ### Your Vaccination Certificate on Your Phone
-*12:30 pm Fri 12th Nov, Tue 16th Nov, 23rd Nov, 7th Dec, 21st Dec*  
+*12:30 pm Fri 12th Nov, Tue 16th Nov, 23rd Nov, 7th Dec, 21st Dec (2022 dates TBA)*  
 You've had your COVID vaccination, and now you want to be able to substantiate it conveniently using your phone. This involves having your myGov & Medicare online accounts in order and available on your phone. Join this FREE 1-hour class to sort all of this out!
 
 *Bonus: If you're a Qantas Frequent Flyer, we will also help you claim the [1000 points Qantas awards to vaccinated members](https://www.qantas.com/au/en/frequent-flyer/member-offers/been-vaccinated-be-rewarded.html){:target="_blank"} and enter their lucky draw for a year's worth of free flights, Accor accommodation or BP fuel.*
@@ -43,7 +43,7 @@ You've had your COVID vaccination, and now you want to be able to substantiate i
 ---
 
 ### Getting Rid of Your Clutter on Gumtree
-*1 pm 20th October (Dec dates TBA)*  
+*1 pm Wed 20th October, 1st December (2022 dates TBA)*  
 Want to try a new way to get rid of your clutter? In this FREE 1-hour course you will learn how to sell (or give away) your clutter online using Gumtree.
 
 [Enrol](https://docs.google.com/forms/d/e/1FAIpQLSdyHjk8QBYIBm1QFgm4XSpf65_OK3405PxJqzzzOzbxTPqOCg/viewform?usp=sf_link){:target="_blank"}{:.btn}
@@ -51,7 +51,7 @@ Want to try a new way to get rid of your clutter? In this FREE 1-hour course you
 ---
 
 ### Mindfulness & Sleep Meditation Apps on Your Smartphone  
-*1 pm Wed 24th November (Dec dates TBA)*  
+*1 pm Wed 24th November (2022 dates TBA)*  
 Thanks to the advances of technology, there are now smartphone apps that help you with your mindfulness practice. In this FREE 1-hour class, we will survey the different types of free and paid mindfulness and meditation apps that are available, and discuss the pros and cons of the different types.  
 
 [Enrol](https://docs.google.com/forms/d/e/1FAIpQLSefAmOFvI0nJ5ihJ_CqhZK8L-0aRPkAv-VZcViMdQjFHHLL-Q/viewform?usp=sf_link){:target="_blank"}{:.btn}
@@ -59,7 +59,7 @@ Thanks to the advances of technology, there are now smartphone apps that help yo
 ---
 
 ### eBooks: 10,000 Library Books in Your Pocket
-*1 pm Wed 27th October, 10th November (Dec dates TBA)*  
+*1 pm Wed 27th October, 10th November (2022 dates TBA)*  
 Did you know that using your smartphone/tablet, you can access free eBooks from the WA State Library? Come and learn how in this FREE 1-hour class, and walk out the class with 10,000 Library Books in Your Pocket!
 
 [Enrol](https://docs.google.com/forms/d/e/1FAIpQLSfRKA_0ElcFoU61C2OPpSJusj9fwhUGEndnyfNAM2Et8w-4bQ/viewform?usp=sf_link){:target="_blank"}{:.btn}
@@ -67,7 +67,7 @@ Did you know that using your smartphone/tablet, you can access free eBooks from 
 ---
 
 ### Storing & Organising Your Documents on 'The Cloud'
-*1 pm Wed 3rd November (Dec dates TBA)*  
+*1 pm Wed 3rd November, 15th December (2022 dates TBA)*  
 You might have heard of friends and organisations organsing photos, bills, tax documents etc. on 'The Cloud'. In this FREE 1-hour class, you will learn how to use The Cloud to safely store and organise your documents digitally, and have them instantly accessible across your devices.
 
 [Enrol](https://docs.google.com/forms/d/e/1FAIpQLSeXbnOrW7EySrPLQTJG4h6HvVXRngaP_imj1RzqzAvdgcSbBA/viewform?usp=sf_link){:target="_blank"}{:.btn}
