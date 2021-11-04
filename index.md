@@ -22,7 +22,7 @@ Got your knickers in a knot over a problem with your smartphone, tablet or lapto
 We have a wide range of free 1-hour group classes, these classes have a maximum of 6 students to ensure sufficient individual attention:
 
 ### Your Vaccination Certificate on Your Phone
-*12:30 pm Tue 9th Nov, 23rd Nov, 7th Dec, 21st Dec*  
+*12:30 pm Fri 12th Nov, Tue 16th Nov, 23rd Nov, 7th Dec, 21st Dec*  
 You've had your COVID vaccination, and now you want to be able to substantiate it conveniently using your phone. This involves having your myGov & Medicare online accounts in order and available on your phone. Join this FREE 1-hour class to sort all of this out!
 
 *Bonus: If you're a Qantas Frequent Flyer, we will also help you claim the [1000 points Qantas awards to vaccinated members](https://www.qantas.com/au/en/frequent-flyer/member-offers/been-vaccinated-be-rewarded.html){:target="_blank"} and enter their lucky draw for a year's worth of free flights, Accor accommodation or BP fuel.*
