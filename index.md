@@ -19,7 +19,7 @@ Got your knickers in a knot over a problem with your smartphone, tablet or lapto
 
 ## <a name="group"></a>Free Digital Skills Group Classes
 
-We have a wide range of free 1-hour group classes, these classes have a maximum of 6 students to ensure sufficient individual attention:
+We have a wide range of free 1-hour group classes, these classes have a maximum of 6 students to ensure sufficient individual attention. Click the 'enrol' links below to register, or check the group class calendar [here](/calendar).
 
 ### Your Vaccination Certificate on Your Phone
 You've had your COVID vaccination, and now you want to be able to substantiate it conveniently using your phone. This involves having your myGov & Medicare online accounts in order and available on your phone. Join this FREE 1-hour class to sort all of this out!
