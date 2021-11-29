@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FREE Computer & Smartphone Classes @ South Perth Learning Centre
+title: FREE Tech Computer & Smartphone Classes in South Perth
 ---
 <img class="img-responsive" src="img/be_connected_network_partner_logo_1200x200_splc.png">  
 
