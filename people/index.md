@@ -1,3 +1,8 @@
+---
+layout: default
+title: People - SPLC Tech Skills for Seniors
+---
+
 ## Didi Mudigdo
 ![Didi Mudigdo](/img/beconnected/didi.jpg)
 
