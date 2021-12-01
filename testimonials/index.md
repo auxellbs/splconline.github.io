@@ -12,3 +12,5 @@ Here's what participants have to say about their Be Connected sessions at SPLC:
 
 > "My wife has attended 3 Be Connected sessions at SPLC: Organising digital photography, selling on Gum Tree and Digitisation of Vaccination Certification. She has found all three sessions informative and helpful, delivered by friendly experts who are patient, clear and take the time to explain how to benefit from the digital world. Fantastic service and we both hope Be Connected can continue at SPLC in 2022."
 
+Did our SPCL Tech Skills for Seniors class(es) help you? Please [share your feedback on Google](https://g.page/r/CWcklHWSXetbEA0/review)!
+
