@@ -32,6 +32,13 @@ You've had your COVID vaccination, and now you want to be able to substantiate i
 
 ---
 
+### Council Kerbside Recycling Demystified
+We often wonder whether something should or should not go into kerbside recycling. With the help of an Australian-developed smartphone app, in this 1-hour class we will help you demystify kerbside recycling! We will also help you install the app on your smartphone, so you always have a handy directory of what is/isn't kerbside recycling.
+
+[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1573&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+
+---
+
 ### Your Favourite Photos in One Place, One Tap Away
 "Not enough storage", isn't that annoying when you want to capture your magnificent weekend trip? In this FREE 1-hour course, you will learn the easy, neat, efficient way to stash away your photos in one place.
 
