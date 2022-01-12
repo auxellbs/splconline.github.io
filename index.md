@@ -24,7 +24,7 @@ We have a wide range of free 1-hour group classes, these classes have a maximum 
 ### Your Vaccination Certificate on Your Phone
 You've had your COVID vaccination, and now you want to be able to substantiate it conveniently using your phone, either on your Apple Wallet/Google Pay app, or on the new [Service WA](https://www.wa.gov.au/organisation/government-of-western-australia/servicewa-mobile-app){:target="_blank"} app. Join this FREE 1-hour class to sort all of this out: your MyGov, MyGovID, Medicare App, Service WA and more!
 
-*Another Bonus: Bring your passport, and we can also setup your [internationally-recognised vaccination passport](https://www.abc.net.au/news/2021-10-19/international-covid-vaccine-certificate-passport/100548596){:target="_blank"}.*
+*Bonus: Bring your passport, and we can also setup your [internationally-recognised vaccination passport](https://www.abc.net.au/news/2021-10-19/international-covid-vaccine-certificate-passport/100548596){:target="_blank"}.*
 
 [Enrol](https://docs.google.com/forms/d/e/1FAIpQLSf1BWKNcViD4-tdzi4b4cIvrHCW6SW9B87VjcjOoB5lfhzkew/viewform?usp=sf_link){:target="_blank"}{:.btn}
 
