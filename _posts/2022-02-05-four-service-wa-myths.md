@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Four Service WA Myths Debunked"
-date: 2022-02-05
+date: 2020-02-05
 ---
-
 It has been three weeks now since the WA state government introduced the  Service WA app. Many have struggled with setting it up (including Mark McGowan himself), as is evident from the proliferation of hilarious memes such as this one:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Well this is a fun task…<a href="https://twitter.com/hashtag/ServiceWA?src=hash&amp;ref_src=twsrc%5Etfw">#ServiceWA</a> <a href="https://t.co/Zq3ZUCJMPs">pic.twitter.com/Zq3ZUCJMPs</a></p>&mdash; adamd (@adam_d) <a href="https://twitter.com/adam_d/status/1480709952238850050?ref_src=twsrc%5Etfw">January 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
