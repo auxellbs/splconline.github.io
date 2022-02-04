@@ -40,7 +40,7 @@ We often wonder whether something should or should not go into kerbside recyclin
 ### Your Favourite Photos in One Place, One Tap Away
 "Not enough storage", isn't that annoying when you want to capture your magnificent weekend trip? In this FREE 1-hour course, you will learn the easy, neat, efficient way to stash away your photos in one place.
 
-[Enrol (iOS)](https://docs.google.com/forms/d/e/1FAIpQLSesynXBTyD7JqahQ8ecv9Xnlw4cMoRA9_G5lAJa9FaMqgg1HQ/viewform?usp=sf_link){:target="_blank"}{:.btn} [Enrol (Android)](https://docs.google.com/forms/d/e/1FAIpQLScoVrlyw_8JA2RMlicWWnr2R-AlUVmGrG5w4_Flzv5Q4iIyag/viewform?usp=sf_link){:target="_blank"}{:.btn}
+*Update Feb 2022: This class is no longer running but for one-on-one help with your digital photos, please book yourself into a [one-on-one session](https://calendly.com/splc-beconnected/digital-skills){:target="_blank"}.*
 
 ---
 
