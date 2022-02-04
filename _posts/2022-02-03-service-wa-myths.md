@@ -3,7 +3,7 @@ layout: post
 title: "Service WA: Four Myths Debunked"
 date: 2022-02-03
 ---
-*By Didi Mudigdo - SPLC Digital Literacy Coordinator*
+*By Didi Mudigdo - SPLC Digital Literacy Coordinator*  
 It has been three weeks now since the WA State Government introduced the  Service WA app. Many have struggled with setting it up ([including Mark McGowan himself](https://www.perthnow.com.au/news/coronavirus/servicewa-15-million-west-australians-yet-to-download-app-as-premier-concedes-it-is-complex-c-5541739){:target="_blank"}), as is evident from the proliferation of hilarious memes such as this one:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Well this is a fun task…<a href="https://twitter.com/hashtag/ServiceWA?src=hash&amp;ref_src=twsrc%5Etfw">#ServiceWA</a> <a href="https://t.co/Zq3ZUCJMPs">pic.twitter.com/Zq3ZUCJMPs</a></p>&mdash; adamd (@adam_d) <a href="https://twitter.com/adam_d/status/1480709952238850050?ref_src=twsrc%5Etfw">January 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
