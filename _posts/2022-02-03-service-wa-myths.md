@@ -8,7 +8,7 @@ It has been three weeks now since the WA State Government introduced the  Servic
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Well this is a fun task…<a href="https://twitter.com/hashtag/ServiceWA?src=hash&amp;ref_src=twsrc%5Etfw">#ServiceWA</a> <a href="https://t.co/Zq3ZUCJMPs">pic.twitter.com/Zq3ZUCJMPs</a></p>&mdash; adamd (@adam_d) <a href="https://twitter.com/adam_d/status/1480709952238850050?ref_src=twsrc%5Etfw">January 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-At South Perth Learning Centre, we had been running free classes to help members put their vax certs on their smartphones since September 2021. When Service WA landed 5 months later, [our Tech Skills team](https://splconline.org.au/people/) were already well-versed in many different scenarios of setting up MyGov and the Medicare Express app. This body of knowledge & experience has been invaluable in helping our members set up the new Services WA app.
+At South Perth Learning Centre, we had been running free classes to help members put their vax certs on their smartphones since September 2021. When Service WA landed 5 months later, [our Tech Skills team](https://splconline.org.au/people/){:target="_blank"} were already well-versed in many different scenarios of setting up MyGov and the Medicare Express app. This body of knowledge & experience has been invaluable in helping our members set up the new Services WA app.
 
 To help you setup Service WA, I'd like to share 4 common misconceptions that we have observed in the wild, misconceptions that can complicate the process, and be a source of ample grief.
 
