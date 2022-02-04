@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Four Service WA Myths Debunked"
-date: 2020-02-05
+date: 2020-02-03
 ---
 It has been three weeks now since the WA state government introduced the  Service WA app. Many have struggled with setting it up (including Mark McGowan himself), as is evident from the proliferation of hilarious memes such as this one:
 
