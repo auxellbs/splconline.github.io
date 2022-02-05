@@ -70,4 +70,4 @@ For the vax cert section of Service WA to work, on top of having MyGovID, you ne
 
 Option 9 anyone? (Sounds of shuffling feet towards the photocopier with hardcopy vax cert in hand.)
  
-I hope debunking these 4 common Service WA myths will help put you on the right path towards successfully setting it up. Good luck! And if you have any questions, please [contact us](https://splc.org.au/contact), we look forward to hearing from you!
+I hope debunking these 4 common Service WA myths will help put you on the right path towards successfully setting it up. Good luck! And if you have any questions or comments please write below, we look forward to hearing from you!
