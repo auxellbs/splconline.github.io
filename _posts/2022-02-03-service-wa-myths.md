@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Service WA: Four Myths Debunked"
 date: 2022-02-03
 ---
