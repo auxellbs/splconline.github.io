@@ -4,7 +4,7 @@ title: FREE Tech Computer & Smartphone Classes in South Perth
 ---
 <img class="img-responsive" src="img/be_connected_network_partner_logo_1200x200_splc.png">  
 
-[[**One-on-One Sessions**](#one2one)] [[**Group Classes**](#group)]
+[[**One-on-One Sessions**](#one2one)] [[**Group Classes**](#group)] [[**Service WA Class**](https://docs.google.com/forms/d/e/1FAIpQLSf1BWKNcViD4-tdzi4b4cIvrHCW6SW9B87VjcjOoB5lfhzkew/viewform)]{:target="_blank"}]
 
 For a limited time only, we are offering FREE tech computer classes & smartphone classes for seniors, as personal one-to-one sessions or group classes!
 
