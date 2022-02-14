@@ -54,21 +54,21 @@ Want to try a new way to get rid of your clutter? In this FREE 1-hour course you
 ### Mindfulness & Sleep Meditation Apps on Your Smartphone  
 Thanks to the advances of technology, there are now smartphone apps that help you with your mindfulness practice. In this FREE 1-hour class, we will survey the different types of free and paid mindfulness and meditation apps that are available, and discuss the pros and cons of the different types.  
 
-[Enrol](https://docs.google.com/forms/d/e/1FAIpQLSefAmOFvI0nJ5ihJ_CqhZK8L-0aRPkAv-VZcViMdQjFHHLL-Q/viewform?usp=sf_link){:target="_blank"}{:.btn}
+[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1584&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
 ### eBooks: 10,000 Library Books in Your Pocket
 Did you know that using your smartphone/tablet, you can access free eBooks from the WA State Library? Come and learn how in this FREE 1-hour class, and walk out the class with 10,000 Library Books in Your Pocket!
 
-[Enrol](https://docs.google.com/forms/d/e/1FAIpQLSfRKA_0ElcFoU61C2OPpSJusj9fwhUGEndnyfNAM2Et8w-4bQ/viewform?usp=sf_link){:target="_blank"}{:.btn}
+[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1585&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
 ### Storing & Organising Your Documents on 'The Cloud'
 You might have heard of friends and organisations organsing photos, bills, tax documents etc. on 'The Cloud'. In this FREE 1-hour class, you will learn how to use The Cloud to safely store and organise your documents digitally, and have them instantly accessible across your devices.
 
-[Enrol](https://docs.google.com/forms/d/e/1FAIpQLSeXbnOrW7EySrPLQTJG4h6HvVXRngaP_imj1RzqzAvdgcSbBA/viewform?usp=sf_link){:target="_blank"}{:.btn}
+[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1582&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
