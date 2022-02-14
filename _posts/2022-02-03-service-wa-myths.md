@@ -64,10 +64,12 @@ And thus Myth #2. No, you do not need your birth certificate/passport to setup S
 Ditto Myth #2, face scanning is only required for 'Strong' which Service WA does not require.
 
 ### Myth #4: To setup Service WA, I only need to setup MyGovID first
-Service WA has two sections of interest when it comes to covid: a check-in section (like the Safe WA app) and a vax cert section. Having setup MyGovID alone will get you to the check-in section of Service WA, but not the vax cert section.
+Service WA has two sections of interest when it comes to covid: a check-in section (like the Safe WA app) and a vax cert section. Having setup MyGovID alone will get you to the check-in section of Service WA, but not the vax cert section. Not to worry, with MyGovID set up, you are halfway there!
 
-For the vax cert section of Service WA to work, on top of having MyGovID, you need to get your digital covid vaccination certificate in there ([here are the wa.gov.au full instructions for this step](https://www.wa.gov.au/government/multi-step-guides/servicewa-app-support/how-import-your-covid-19-digital-certificate-the-servicewa-app){:target="_blank"}). For that to happen you need to have your Medicare Express app set up. But then a prerequisite to setting up your Medicare Express app is to have your MyGov already set up, *and* connected to your Medicare account.
+For the vax cert section of Service WA to work, on top of having MyGovID, you need to get your digital covid vaccination certificate in there ([here are the wa.gov.au full instructions for this step](https://www.wa.gov.au/government/multi-step-guides/servicewa-app-support/how-import-your-covid-19-digital-certificate-the-servicewa-app){:target="_blank"}). For that to happen you need to have your Medicare Express app set up. But then a prerequisite to setting up your Medicare Express app is to have your MyGov already set up, *and* connected to your Medicare account. [UPDATE 14.02.2022 see below]
 
 Option 9 anyone? (Sounds of shuffling feet towards the photocopier with hardcopy vax cert in hand.)
  
 I hope debunking these 4 common Service WA myths will help put you on the right path towards successfully setting it up. Good luck! And if you have any questions or comments please write below, we look forward to hearing from you!
+
+[UPDATE 14.02.2022: Since writing this article I have found that there is a way to bypass the Medicare Express App completely. Logging on to MyGov and then Medicare on a mobile browser (without installing the Medicare Express app) is sufficient to get your vax cert into Service WA]
