@@ -26,7 +26,7 @@ You've had your COVID vaccination, and now you want to be able to substantiate i
 
 *Bonus: Bring your passport, and we can also setup your [internationally-recognised vaccination passport](https://www.abc.net.au/news/2021-10-19/international-covid-vaccine-certificate-passport/100548596){:target="_blank"}.*
 
-[Enrol](https://docs.google.com/forms/d/e/1FAIpQLSf1BWKNcViD4-tdzi4b4cIvrHCW6SW9B87VjcjOoB5lfhzkew/viewform?usp=sf_link){:target="_blank"}{:.btn}
+[Enrol](https://calendly.com/splc-beconnected/vax-certificate-on-your-smart-phone){:target="_blank"}{:.btn}
 
 ---
 
