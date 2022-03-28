@@ -21,12 +21,19 @@ Got your knickers in a knot over a problem with your smartphone, tablet or lapto
 
 We have a wide range of free 1-hour group classes, these classes have a maximum of 6 students to ensure sufficient individual attention. Click the 'enrol' links below to register, or check the group class calendar [here](/calendar).
 
-### Your Vaccination Certificate on Your Phone
+### Service WA on Your Phone
 You've had your COVID vaccination, and now you want to be able to substantiate it conveniently using your phone, either on your Apple Wallet/Google Pay app, or on the new [Service WA](https://www.wa.gov.au/organisation/government-of-western-australia/servicewa-mobile-app){:target="_blank"} app. Join this FREE 1-hour class to sort all of this out: your MyGov, MyGovID, Medicare App, Service WA and more!
 
 *Bonus: Bring your passport, and we can also setup your [internationally-recognised vaccination passport](https://www.abc.net.au/news/2021-10-19/international-covid-vaccine-certificate-passport/100548596){:target="_blank"}.*
 
 [Enrol](https://calendly.com/splc-beconnected/vax-certificate-on-your-smart-phone){:target="_blank"}{:.btn}
+
+---
+
+### Coursera: Online Courses from Universities Worldwide
+Coursera offers online courses from top universities worldwide, most of them free of charge. In this FREE 1-hour workshop, we will explore and discuss the different types of free courses available on Coursera, and show you how to access them. If you have a tablet or laptop, bring it along, and you soon will be up and running, attending a university course from home, in a cafe, or out the backyard!
+
+[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1633&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
@@ -37,10 +44,9 @@ We often wonder whether something should or should not go into kerbside recyclin
 
 ---
 
-### Your Favourite Photos in One Place, One Tap Away
-"Not enough storage", isn't that annoying when you want to capture your magnificent weekend trip? In this FREE 1-hour course, you will learn the easy, neat, efficient way to stash away your photos in one place.
-
-*Update Feb 2022: This class is no longer running but for one-on-one help with your digital photos, please book yourself into a [one-on-one session](https://calendly.com/splc-beconnected/digital-skills){:target="_blank"}.*
+### The Magnificent World of Podcasts
+Do you enjoy listening to the radio, but want to focus on specific themes or topics? Then Podcasts are for you! Podcasts cover a wide range of topics from true crime to sports and to world news. In this FREE 1-hour workshop we will explore podcasts, and discuss how to access a podcast on your digital device. Make sure to bring your tablet, or smartphone, and you'll soon be listening to your new favourite podcast!
+[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1634&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
