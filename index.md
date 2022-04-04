@@ -30,8 +30,16 @@ You've had your COVID vaccination, and now you want to be able to substantiate i
 
 ---
 
-### Coursera: Online Courses from Universities Worldwide
-Coursera offers online courses from top universities worldwide, most of them free of charge. In this FREE 1-hour workshop, we will explore and discuss the different types of free courses available on Coursera, and show you how to access them. If you have a tablet or laptop, bring it along, and you soon will be up and running, attending a university course from home, in a cafe, or out the backyard!
+### Get Going with The G2G Pass
+Now that the borders are opening, travel plans are on the table. But don't forget to apply for the G2G pass to return to WA! In this free 1-hour group class, we will help you sort out your G2G.
+
+[Enrol](https://calendly.com/splc-beconnected/g2g){:target="_blank"}{:.btn}
+
+---
+
+### Online Courses from Experts, Celebrities and Universities
+
+Thanks to video streaming technology we can all do online courses provided by experts, celebrities and universities worldwide. In this FREE 1-hour workshop, we will explore and discuss the different types of free and paid online courses available, and show you how to access them. If you have a tablet or laptop, bring it along, and you soon will be up and running, attending an online course from home, in a cafe, or out the backyard!
 
 [Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1633&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
@@ -45,7 +53,7 @@ We often wonder whether something should or should not go into kerbside recyclin
 ---
 
 ### The Magnificent World of Podcasts
-Do you enjoy listening to the radio, but want to focus on specific themes or topics? Then Podcasts are for you! Podcasts cover a wide range of topics from true crime to sports and to world news. In this FREE 1-hour workshop we will explore podcasts, and discuss how to access a podcast on your digital device. Make sure to bring your tablet, or smartphone, and you'll soon be listening to your new favourite podcast!
+Do you enjoy listening to the radio, but want to focus on specific themes or topics? Then Podcasts are for you! Podcasts cover a wide range of topics from true crime to sports and to world news. In this FREE 1-hour workshop we will explore podcasts, and discuss how to access a podcast on your digital device. Make sure to bring your tablet, or smartphone, and you'll soon be listening to your new favourite podcast!  
 [Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1634&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
