@@ -6,11 +6,11 @@ title: FREE Tech Computer & Smartphone Classes in South Perth
 
 [[**One-on-One Sessions**](#one2one)] [[**Group Classes**](#group)] [[**Service WA Class**](https://docs.google.com/forms/d/e/1FAIpQLSf1BWKNcViD4-tdzi4b4cIvrHCW6SW9B87VjcjOoB5lfhzkew/viewform){:target="_blank"}]
 
-For a limited time only, we are offering FREE tech computer classes & smartphone classes for seniors, as personal one-to-one sessions or group classes!
+For a limited time only, the South Perth Learning Centre is offering FREE tech computer classes & smartphone classes for seniors, as personal one-to-one sessions or group classes!
 
-Please call us on 0468 486 570 to book your free tech skills sessions which are held at [96 South Terrace South Perth WA 6101](https://goo.gl/maps/J9iKy2qk9turcHnW6){:target="_blank"}, or you can book online by clicking the links below.
+Please call us on 0459 571 736 to book your free tech skills sessions which are held at [96 South Terrace South Perth WA 6101](https://goo.gl/maps/J9iKy2qk9turcHnW6){:target="_blank"}, or you can book online by clicking the links below.
 
-## <a name="one2one"></a> Free Tech Skills One-on-One Sessions
+## <a name="one2one"></a> One-on-One Sessions
 Got your knickers in a knot over a problem with your smartphone, tablet or laptop? You have a new device, but you don't really know what it can do? Why not sign up for a free personal one-on-one 30-minute troubleshooting session with our resident Tech Whizzes! Sessions are available every Tuesday and Friday mornings 10 am - 12 pm.
 
 [Book FREE One-on-One 30-Minute Session](https://calendly.com/splc-beconnected/digital-skills){:target="_blank"}{:.btn}
@@ -19,9 +19,9 @@ Got your knickers in a knot over a problem with your smartphone, tablet or lapto
 
 ---
 
-## <a name="group"></a>Free Tech Skills Group Classes
+## <a name="group"></a>Group Classes
 
-We have a wide range of free 1-hour group classes, these classes have a maximum of 6 students to ensure sufficient individual attention. Click the 'enrol' links below to register, or check the group class calendar [here](/calendar).
+We have a wide range of free 1-hour group classes, these free classes have a maximum of 6 students to ensure sufficient individual attention. Click the 'enrol' links below to register, or check the group class calendar [here](/calendar).
 
 #### Service WA on Your Phone
 You've had your COVID vaccination, and now you want to be able to substantiate it conveniently using your phone, either on your Apple Wallet/Google Pay app, or on the new [Service WA](https://www.wa.gov.au/organisation/government-of-western-australia/servicewa-mobile-app){:target="_blank"} app. Join this FREE 1-hour class to sort all of this out: your MyGov, MyGovID, Medicare App, Service WA and more!
