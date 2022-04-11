@@ -43,7 +43,7 @@ Now that the borders are opening, travel plans are on the table. But don't forge
 
 Thanks to video streaming technology we can all do online courses provided by experts, celebrities and universities worldwide. In this FREE 1-hour workshop, we will explore and discuss the different types of free and paid online courses available, and show you how to access them. If you have a tablet or laptop, bring it along, and you soon will be up and running, attending an online course from home, in a cafe, or out the backyard!
 
-[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1633&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1654&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
@@ -56,7 +56,7 @@ We often wonder whether something should or should not go into kerbside recyclin
 
 #### The Magnificent World of Podcasts
 Do you enjoy listening to the radio, but want to focus on specific themes or topics? Then Podcasts are for you! Podcasts cover a wide range of topics from true crime to sports and to world news. In this FREE 1-hour workshop we will explore podcasts, and discuss how to access a podcast on your digital device. Make sure to bring your tablet, or smartphone, and you'll soon be listening to your new favourite podcast!  
-[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1634&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1653&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
@@ -84,7 +84,7 @@ Did you know that using your smartphone/tablet, you can access free eBooks from 
 #### Storing & Organising Your Documents on 'The Cloud'
 You might have heard of friends and organisations organsing photos, bills, tax documents etc. on 'The Cloud'. In this FREE 1-hour class, you will learn how to use The Cloud to safely store and organise your documents digitally, and have them instantly accessible across your devices.
 
-[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1582&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1650&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
