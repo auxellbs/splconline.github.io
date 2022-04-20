@@ -23,6 +23,13 @@ Got your knickers in a knot over a problem with your smartphone, tablet or lapto
 
 We have a wide range of free 1-hour group classes, these free classes have a maximum of 6 students to ensure sufficient individual attention. Click the 'enrol' links below to register, or check the group class calendar [here](/calendar).
 
+#### Get Going with The G2G Pass
+Now that the borders are opening, travel plans are on the table. But don't forget to apply for the G2G pass to return to WA! In this free 1-hour group class, we will help you sort out your G2G.
+
+[Enrol](https://calendly.com/splc-beconnected/g2g){:target="_blank"}{:.btn}
+
+---
+
 #### Service WA on Your Phone
 You've had your COVID vaccination, and now you want to be able to substantiate it conveniently using your phone, either on your Apple Wallet/Google Pay app, or on the new [Service WA](https://www.wa.gov.au/organisation/government-of-western-australia/servicewa-mobile-app){:target="_blank"} app. Join this FREE 1-hour class to sort all of this out: your MyGov, MyGovID, Medicare App, Service WA and more!
 
@@ -32,14 +39,7 @@ You've had your COVID vaccination, and now you want to be able to substantiate i
 
 ---
 
-#### Get Going with The G2G Pass
-Now that the borders are opening, travel plans are on the table. But don't forget to apply for the G2G pass to return to WA! In this free 1-hour group class, we will help you sort out your G2G.
-
-[Enrol](https://calendly.com/splc-beconnected/g2g){:target="_blank"}{:.btn}
-
----
-
-#### Online Courses from Experts, Celebrities and Universities
+#### Online Courses from Experts, Universities and Celebrities
 
 Thanks to video streaming technology we can all do online courses provided by experts, celebrities and universities worldwide. In this FREE 1-hour workshop, we will explore and discuss the different types of free and paid online courses available, and show you how to access them. If you have a tablet or laptop, bring it along, and you soon will be up and running, attending an online course from home, in a cafe, or out the backyard!
 
