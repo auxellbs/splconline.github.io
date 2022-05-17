@@ -10,8 +10,8 @@ For a limited time only, the South Perth Learning Centre is offering FREE tech c
 
 Please call us on 0459 571 736 to book your free tech skills sessions which are held at [96 South Terrace South Perth WA 6101](https://goo.gl/maps/J9iKy2qk9turcHnW6){:target="_blank"}, or you can book online by clicking the links below.
 
-## <a name="one2one"></a> One-on-One Sessions
-Got your knickers in a knot over a problem with your smartphone, tablet or laptop? You have a new device, but you don't really know what it can do? Why not sign up for a free personal one-on-one 30-minute troubleshooting session with our resident Tech Whizzes! Sessions are available every Tuesday and Friday mornings 10 am - 12 pm.
+## <a name="one2one"></a> Smartphone SOS One-on-One
+Got your knickers in a knot over a problem with your smartphone, tablet or laptop? You have a new device, but you don't really know what it can do? Why not sign up for a free personal one-on-one 30-minute troubleshooting help session with our resident Tech Whizzes! One-on-one sessions are available every Tuesday and Friday mornings 10 am - 12 pm, and Thursday afternoons 12:30 pm - 2 pm.
 
 [Book FREE One-on-One 30-Minute Session](https://calendly.com/splc-beconnected/digital-skills){:target="_blank"}{:.btn}
 
@@ -24,7 +24,7 @@ Got your knickers in a knot over a problem with your smartphone, tablet or lapto
 We have a wide range of free 1-hour group classes, these free classes have a maximum of 6 students to ensure sufficient individual attention. Click the 'enrol' links below to register, or check the group class calendar [here](/calendar).
 
 
-#### Service WA on Your Phone
+#### Vaccination Certificate on Your Phone
 You've had your COVID vaccination, and now you want to be able to substantiate it conveniently using your phone, either on your Apple Wallet/Google Pay app, or on the [Service WA](https://www.wa.gov.au/organisation/government-of-western-australia/servicewa-mobile-app){:target="_blank"} app. Join this FREE 1-hour class to sort all of this out: your MyGov, MyGovID, Medicare App, Service WA and more!
 
 And now that the WA borders are open, we can also help you sort out your International Vaccination Certificate.
