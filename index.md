@@ -4,24 +4,21 @@ title: FREE Tech Computer & Smartphone Classes in South Perth
 ---
 <img class="img-responsive" src="img/be_connected_network_partner_logo_1200x200_splc.png">  
 
-[[**One-on-One Sessions**](#one2one)] [[**Group Classes**](#group)] [[**Service WA Class**](https://docs.google.com/forms/d/e/1FAIpQLSf1BWKNcViD4-tdzi4b4cIvrHCW6SW9B87VjcjOoB5lfhzkew/viewform){:target="_blank"}]
-
-For a limited time only, the South Perth Learning Centre is offering FREE tech computer classes & smartphone classes for seniors, as personal one-to-one sessions or group classes!
-
-Please call us on 0459 571 736 to book your free tech skills sessions which are held at [96 South Terrace South Perth WA 6101](https://goo.gl/maps/J9iKy2qk9turcHnW6){:target="_blank"}, or you can book online by clicking the links below.
+Please call us on 0459 571 736 to book your free tech skills sessions which are held at the [South Perth Learning Centre](https://goo.gl/maps/J9iKy2qk9turcHnW6){:target="_blank"} 96 South Terrace South Perth WA 6151, or you can book online by clicking the links below.
 
 ## <a name="one2one"></a> Smartphone SOS One-on-One
-Got your knickers in a knot over a problem with your smartphone, tablet or laptop? You have a new device, but you don't really know what it can do? Why not sign up for a free personal one-on-one 30-minute troubleshooting help session with our resident Tech Whizzes! One-on-one sessions are available every Tuesday and Friday mornings 10 am - 12 pm, and Thursday afternoons 12:30 pm - 2 pm.
+Got your knickers in a knot over a problem with your smartphone, tablet or laptop? You have a new device, but you don't really know what it can do? Why not sign up for a FREE one-on-one 30-minute troubleshooting help session with our resident Tech Whizzes! One-on-one sessions are available every Tuesday and Friday mornings 10 am - 12 pm, and Thursday afternoons 12:30 pm - 2 pm.
 
 [Book FREE One-on-One 30-Minute Session](https://calendly.com/splc-beconnected/digital-skills){:target="_blank"}{:.btn}
 
-<img class="img-responsive" src="img/gumtree.jpg">
-
+<img class="img-responsive" src="img/beconnected/one-on-one-panels.jpg">
 ---
 
 ## <a name="group"></a>Group Classes
 
-We have a wide range of free 1-hour group classes, these free classes have a maximum of 6 students to ensure sufficient individual attention. Click the 'enrol' links below to register, or check the group class calendar [here](/calendar).
+We have a wide range of free 1-hour group classes below. These free classes have a maximum of 6 students to ensure sufficient individual attention. Click the 'enrol' links below to register, or check the group class calendar [here](/calendar).
+
+<img class="img-responsive" src="img/beconnected/group.jpg">
 
 
 #### Vaccination Certificate on Your Phone

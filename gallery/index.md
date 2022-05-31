@@ -1,6 +1,6 @@
 Click the images below to view photo galleries of Be Connected activities at SPLC:
 
-## One-on-One Digital Skills Sessions
+## Smartphone SOS for Seniors One-on-One 
 [![Click image to view gallery](/img/beconnected/one-to-one-icon.jpg)](https://photos.app.goo.gl/GctjEFp7bo1yUuLe9){:target="_blank"}
 
 [Click here](https://photos.app.goo.gl/GctjEFp7bo1yUuLe9){:target="_blank"} for more One-on-One photos.
