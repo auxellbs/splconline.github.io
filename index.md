@@ -6,7 +6,7 @@ title: FREE Tech Computer & Smartphone Classes in South Perth
 
 Come and book your FREE tech computer class and/or smartphone class by calling us on 0459 571 736, or you can book online by clicking the links below.
 
-These sessions are held weekly at the [South Perth Learning Centre](https://goo.gl/maps/J9iKy2qk9turcHnW6){:target="_blank"} 96 South Terrace South Perth WA 6151, 
+These sessions are held weekly at the [South Perth Learning Centre](https://goo.gl/maps/J9iKy2qk9turcHnW6){:target="_blank"} 96 South Terrace South Perth WA 6151.
 
 ## <a name="one2one"></a> Smartphone SOS One-on-One
 Got your knickers in a knot over a problem with your smartphone, tablet or laptop? You have a new device, but you don't really know what it can do? Why not sign up for a free one-on-one 30-minute troubleshooting help session with our resident Tech Whizzes! One-on-one sessions are available every Tuesday and Friday mornings 10 am - 12 pm, and Thursday afternoons 12:30 pm - 2 pm.
@@ -25,10 +25,9 @@ We have a wide range of free 1-hour group classes below. These free classes have
 <img class="img-responsive" src="img/beconnected/group.jpg">
 
 
-#### Vaccination Certificate on Your Phone
-You've had your COVID vaccination, and now you want to be able to substantiate it conveniently using your phone, either on your Apple Wallet/Google Pay app, or on the [Service WA](https://www.wa.gov.au/organisation/government-of-western-australia/servicewa-mobile-app){:target="_blank"} app. Join this FREE 1-hour class to sort all of this out: your MyGov, MyGovID, Medicare App, Service WA and more!
+#### Your International Vaccination Certificate on Your Phone
 
-And now that the WA borders are open, we can also help you sort out your International Vaccination Certificate.
+The borders are finally open, and you're ready to travel overseas. Don't forget your International Vaccination Certificate! These days you will need it overseas, just like your passport. Come to this FREE 1-hour workshop to get this all sorted.
 
 [Enrol](https://calendly.com/splc-beconnected/vax-certificate-on-your-smart-phone){:target="_blank"}{:.btn}
 
