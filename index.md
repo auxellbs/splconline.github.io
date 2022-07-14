@@ -37,20 +37,20 @@ The borders are finally open, and you're ready to travel overseas. Don't forget 
 
 Thanks to video streaming technology we can all do online courses provided by experts, celebrities and universities worldwide. In this FREE 1-hour workshop, we will explore and discuss the different types of free and paid online courses available, and show you how to access them. If you have a tablet or laptop, bring it along, and you soon will be up and running, attending an online course from home, in a cafe, or out the backyard!
 
-[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1654&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1654:1745&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
 #### Council Kerbside Recycling Demystified
 We often wonder whether something should or should not go into kerbside recycling. With the help of an Australian-developed smartphone app, in this 1-hour class we will help you demystify kerbside recycling! We will also help you install the app on your smartphone, so you always have a handy directory of what is/isn't kerbside recycling.
 
-[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1583&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1652:1742&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
 #### The Magnificent World of Podcasts
 Do you enjoy listening to the radio, but want to focus on specific themes or topics? Then Podcasts are for you! Podcasts cover a wide range of topics from true crime to sports and to world news. In this FREE 1-hour workshop we will explore podcasts, and discuss how to access a podcast on your digital device. Make sure to bring your tablet, or smartphone, and you'll soon be listening to your new favourite podcast!  
-[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1653&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1746&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
@@ -64,21 +64,21 @@ Want to try a new way to get rid of your clutter? In this FREE 1-hour course you
 #### Mindfulness & Sleep Meditation Apps on Your Smartphone  
 Thanks to the advances of technology, there are now smartphone apps that help you with your mindfulness practice. In this FREE 1-hour class, we will survey the different types of free and paid mindfulness and meditation apps that are available, and discuss the pros and cons of the different types.  
 
-[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1584&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1651:1743&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
 #### eBooks: 10,000 Library Books in Your Pocket
 Did you know that using your smartphone/tablet, you can access free eBooks from the WA State Library? Come and learn how in this FREE 1-hour class, and walk out the class with 10,000 Library Books in Your Pocket!
 
-[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1585&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1744&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
 #### Storing & Organising Your Documents on 'The Cloud'
 You might have heard of friends and organisations organsing photos, bills, tax documents etc. on 'The Cloud'. In this FREE 1-hour class, you will learn how to use The Cloud to safely store and organise your documents digitally, and have them instantly accessible across your devices.
 
-[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1650&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1650:1741&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
