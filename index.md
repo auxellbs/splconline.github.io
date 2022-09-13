@@ -72,7 +72,7 @@ Do you enjoy listening to the radio, but want to focus on specific themes or top
 #### Getting Rid of Your Clutter on Gumtree
 Want to try a new way to get rid of your clutter? In this FREE 1-hour course you will learn how to sell (or give away) your clutter online using Gumtree, an Australian community online selling website.
 
-[Enrol/More Info](https://docs.google.com/forms/d/e/1FAIpQLSdyHjk8QBYIBm1QFgm4XSpf65_OK3405PxJqzzzOzbxTPqOCg/viewform?usp=sf_link){:target="_blank"}{:.btn}
+[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1747&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
