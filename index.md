@@ -44,7 +44,7 @@ The borders are finally open, and you're ready to travel overseas. Don't forget 
 ---
 
 <a name="learnonline"></a>
-#### Online Courses from Experts, Universities and Celebrities
+#### Learn Online from Universities & Experts Worldwide
 
 Thanks to video streaming technology, we can all do online courses provided by experts, celebrities and universities worldwide. In this FREE 1-hour workshop, we will explore and discuss the different types of free and paid online courses available, and show you how to access them.
 
@@ -53,7 +53,7 @@ Thanks to video streaming technology, we can all do online courses provided by e
 ---
 
 <a name="recycling"></a>
-#### Council Kerbside Recycling Demystified
+#### Look Up Recyclables on Your Phone
 We often wonder whether something should or should not go into kerbside recycling. With the help of a locally-developed smartphone app, in this FREE 1-hour class we will help you demystify kerbside recycling! We will also help you install the app on your smartphone, so you always have a handy reference for what is/isn't kerbside recycling.
 
 [Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1652:1742&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
@@ -77,7 +77,7 @@ Want to try a new way to get rid of your clutter? In this FREE 1-hour course you
 ---
 
 <a name="mindful"></a>
-#### Mindfulness & Sleep Meditation Apps on Your Smartphone  
+#### Mindfulness & Meditation Apps on Your Smartphone  
 Thanks to the advances of technology, there are now smartphone apps that help you with your mindfulness practice. In this FREE 1-hour class, we will survey the different types of free and paid mindfulness and meditation apps that are available, and discuss the pros and cons of the different types.  
 
 [Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1651:1743&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
@@ -93,7 +93,7 @@ Did you know that using your smartphone/tablet, you can access free eBooks from 
 ---
 
 <a name="cloud"></a>
-#### Storing & Organising Your Documents on 'The Cloud'
+#### Organising Your Documents on 'The Cloud'
 You might have heard of friends and organisations organsing photos, bills, tax documents etc. on 'The Cloud'. In this FREE 1-hour class, you will learn how to use The Cloud to safely store and organise your documents digitally, and have them instantly accessible across your devices.
 
 [Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1650:1741&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
