@@ -78,7 +78,7 @@ Want to try a new way to get rid of your clutter? In this FREE 1-hour course you
 
 <a name="mindful"></a>
 #### Mindfulness & Meditation Apps on Your Smartphone  
-Thanks to the advances of technology, there are now smartphone apps that help you with your mindfulness practice. In this FREE 1-hour class, we will survey the different types of free and paid mindfulness and meditation apps that are available, and discuss the pros and cons of the different types.  
+Thanks to the advances in technology, there are now smartphone apps that help you with your mindfulness practice. In this FREE 1-hour class, we will survey the different types of free and paid mindfulness and meditation apps that are available, and discuss the pros and cons of the different types.  
 
 [Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1651:1743&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
