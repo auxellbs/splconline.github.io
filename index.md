@@ -108,6 +108,14 @@ Apple CarPlay connects to your iPhone, greatly enhancing your driving experience
 
 ---
 
+<a name="grocery"></a>
+#### Digital Grocery Shopping
+hanks to the advances in technology, you can now do your grocery shopping online from the comfort of your home. After you've made your order, you can go to the supermarket to pick it up, have them load it into your car boot, or have it delivered to your door. Learn how in this free 1-hour class!
+
+[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1807&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+
+---
+
 #### More Classes to Come...
 [Click here](https://splc.org.au/about/blog/8-blog/20-splc-beconnected-course-survey-results){:target="_blank"} to see a sample of the classes we will run soon here at SPLC!
 
