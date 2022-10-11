@@ -31,6 +31,7 @@ We have a wide range of free 1-hour group classes below. These free classes have
 * <a href="#ebooks">eBooks: 10,000 Library Books in Your Pocket</a>  
 * <a href="#cloud">Storing & Organising Your Documents on 'The Cloud'</a>  
 * <a href="#carplay">Driving With Apple CarPlay</a>  
+* <a href="#grocery">Digital Grocery Shopping</a>  
   
 <img class="img-responsive" src="img/beconnected/group.jpg">
 
