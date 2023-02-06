@@ -49,7 +49,7 @@ The borders are finally open, and you're ready to travel overseas. Don't forget 
 
 Thanks to video streaming technology, we can all do online courses provided by experts, celebrities and universities worldwide. In this FREE 1-hour workshop, we will explore and discuss the different types of free and paid online courses available, and show you how to access them.
 
-[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1654:1745&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1887&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
@@ -57,7 +57,7 @@ Thanks to video streaming technology, we can all do online courses provided by e
 #### Look Up Recyclables on Your Phone
 We often wonder whether something should or should not go into kerbside recycling. With the help of a locally-developed smartphone app, in this FREE 1-hour class we will help you demystify kerbside recycling! We will also help you install the app on your smartphone, so you always have a handy reference for what is/isn't kerbside recycling.
 
-[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1652:1742&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1885&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
@@ -65,7 +65,7 @@ We often wonder whether something should or should not go into kerbside recyclin
 #### The Magnificent World of Podcasts
 Do you enjoy listening to the radio, but want to focus on specific themes or topics? Then Podcasts are for you! Podcasts cover a wide range of topics from true crime to sports and to world news. In this FREE 1-hour workshop we will explore podcasts, and discuss how to access them on your device.
 
-[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1746&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1880&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
@@ -73,7 +73,7 @@ Do you enjoy listening to the radio, but want to focus on specific themes or top
 #### Getting Rid of Your Clutter on Gumtree
 Want to try a new way to get rid of your clutter? In this FREE 1-hour course you will learn how to sell (or give away) your clutter online using Gumtree, an Australian community online selling website.
 
-[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1747&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1881&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
@@ -81,7 +81,7 @@ Want to try a new way to get rid of your clutter? In this FREE 1-hour course you
 #### Mindfulness & Meditation Apps on Your Smartphone  
 Thanks to the advances in technology, there are now smartphone apps that help you with your mindfulness practice. In this FREE 1-hour class, we will survey the different types of free and paid mindfulness and meditation apps that are available, and discuss the pros and cons of the different types.  
 
-[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1651:1743&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1883&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
@@ -89,7 +89,7 @@ Thanks to the advances in technology, there are now smartphone apps that help yo
 #### eBooks: 10,000 Library Books in Your Pocket
 Did you know that using your smartphone/tablet, you can access free eBooks from the WA State Library? Come and learn how in this FREE 1-hour class, and walk out the class with 10,000 Library Books in Your Pocket!
 
-[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1744&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1886&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
@@ -97,7 +97,7 @@ Did you know that using your smartphone/tablet, you can access free eBooks from 
 #### Organising Your Documents on 'The Cloud'
 You might have heard of friends and organisations organsing photos, bills, tax documents etc. on 'The Cloud'. In this FREE 1-hour class, you will learn how to use The Cloud to safely store and organise your documents digitally, and have them instantly accessible across your devices.
 
-[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1650:1741&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1878&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
@@ -105,7 +105,7 @@ You might have heard of friends and organisations organsing photos, bills, tax d
 #### Driving With Apple CarPlay
 Apple CarPlay connects to your iPhone, greatly enhancing your driving experience with dashboard navigation, music, podcasts and more. Find how to use Apple CarPlay in this FREE 1-hour class! This class will include an in-car demonstration.
 
-[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1806&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1879&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
@@ -113,7 +113,7 @@ Apple CarPlay connects to your iPhone, greatly enhancing your driving experience
 #### Digital Grocery Shopping
 hanks to the advances in technology, you can now do your grocery shopping online from the comfort of your home. After you've made your order, you can go to the supermarket to pick it up, have them load it into your car boot, or have it delivered to your door. Learn how in this free 1-hour class!
 
-[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1807&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1882&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
