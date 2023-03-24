@@ -22,25 +22,17 @@ Got your knickers in a knot over a problem with your smartphone, tablet or lapto
 
 We have a wide range of free 1-hour group classes below. These free classes have a maximum of 6 students per teacher to ensure sufficient individual attention. To book a class, call 0459 571 736 or click the 'Enrol/More info' buttons below to register. (To see all the session dates, go to the [group class calendar](/calendar)).
 
-* <a href="#vaxcert">Your International Vaccination Certificate on Your Phone</a>  
 * <a href="#learnonline">Online Courses from Experts, Universities and Celebrities</a>  
-* <a href="#recycling">Council Kerbside Recycling Demystified</a>  
 * <a href="#podcasts">The Magnificent World of Podcasts</a>  
 * <a href="#gumtree">Getting Rid of Your Clutter on Gumtree</a>  
 * <a href="#mindful">Mindfulness & Sleep Meditation Apps on Your Smartphone</a>  
 * <a href="#ebooks">eBooks: 10,000 Library Books in Your Pocket</a>  
 * <a href="#cloud">Storing & Organising Your Documents on 'The Cloud'</a>  
 * <a href="#carplay">Driving With Apple CarPlay</a>  
-* <a href="#grocery">Digital Grocery Shopping</a>  
+* <a href="#googlephotos">Organise Your Photos with Google Photos</a>  
+* <a href="#linux">Rejuvenate Your Old Computer with Linux</a>  
   
 <img class="img-responsive" src="img/beconnected/group.jpg">
-
-<a name="vaxcert"></a>
-#### Your International Vaccination Certificate on Your Phone
-
-The borders are finally open, and you're ready to travel overseas. Don't forget your International Vaccination Certificate! These days you will need it overseas, just like your passport. Come to this FREE 1-hour workshop to get this all sorted.
-
-[Enrol/More Info](https://calendly.com/splc-beconnected/vax-certificate-on-your-smart-phone){:target="_blank"}{:.btn}
 
 ---
 
@@ -49,15 +41,7 @@ The borders are finally open, and you're ready to travel overseas. Don't forget 
 
 Thanks to video streaming technology, we can all do online courses provided by experts, celebrities and universities worldwide. In this FREE 1-hour workshop, we will explore and discuss the different types of free and paid online courses available, and show you how to access them.
 
-[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1887&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
-
----
-
-<a name="recycling"></a>
-#### Look Up Recyclables on Your Phone
-We often wonder whether something should or should not go into kerbside recycling. With the help of a locally-developed smartphone app, in this FREE 1-hour class we will help you demystify kerbside recycling! We will also help you install the app on your smartphone, so you always have a handy reference for what is/isn't kerbside recycling.
-
-[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1885&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1926&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
@@ -65,7 +49,7 @@ We often wonder whether something should or should not go into kerbside recyclin
 #### The Magnificent World of Podcasts
 Do you enjoy listening to the radio, but want to focus on specific themes or topics? Then Podcasts are for you! Podcasts cover a wide range of topics from true crime to sports and to world news. In this FREE 1-hour workshop we will explore podcasts, and discuss how to access them on your device.
 
-[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1880&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1923&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
@@ -73,7 +57,7 @@ Do you enjoy listening to the radio, but want to focus on specific themes or top
 #### Getting Rid of Your Clutter on Gumtree
 Want to try a new way to get rid of your clutter? In this FREE 1-hour course you will learn how to sell (or give away) your clutter online using Gumtree, an Australian community online selling website.
 
-[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1881&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1920&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
@@ -81,7 +65,7 @@ Want to try a new way to get rid of your clutter? In this FREE 1-hour course you
 #### Mindfulness & Meditation Apps on Your Smartphone  
 Thanks to the advances in technology, there are now smartphone apps that help you with your mindfulness practice. In this FREE 1-hour class, we will survey the different types of free and paid mindfulness and meditation apps that are available, and discuss the pros and cons of the different types.  
 
-[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1883&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1924&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
@@ -89,7 +73,7 @@ Thanks to the advances in technology, there are now smartphone apps that help yo
 #### eBooks: 10,000 Library Books in Your Pocket
 Did you know that using your smartphone/tablet, you can access free eBooks from the WA State Library? Come and learn how in this FREE 1-hour class, and walk out the class with 10,000 Library Books in Your Pocket!
 
-[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1886&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1925&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
@@ -97,7 +81,7 @@ Did you know that using your smartphone/tablet, you can access free eBooks from 
 #### Organising Your Documents on 'The Cloud'
 You might have heard of friends and organisations organsing photos, bills, tax documents etc. on 'The Cloud'. In this FREE 1-hour class, you will learn how to use The Cloud to safely store and organise your documents digitally, and have them instantly accessible across your devices.
 
-[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1878&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1921&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
@@ -105,21 +89,25 @@ You might have heard of friends and organisations organsing photos, bills, tax d
 #### Driving With Apple CarPlay
 Apple CarPlay connects to your iPhone, greatly enhancing your driving experience with dashboard navigation, music, podcasts and more. Find how to use Apple CarPlay in this FREE 1-hour class! This class will include an in-car demonstration.
 
-[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1879&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1922&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
-<a name="grocery"></a>
-#### Digital Grocery Shopping
-hanks to the advances in technology, you can now do your grocery shopping online from the comfort of your home. After you've made your order, you can go to the supermarket to pick it up, have them load it into your car boot, or have it delivered to your door. Learn how in this free 1-hour class!
+<a name="googlephotos"></a>
+#### Organise Your Photos with Google Photos
+You've heard the story: your phone auto-syncs our photos to the cloud, the cloud gets too full, then you are asked to pay for a monthly subscription. In this class, we will discuss how to keep our photos organised without auto-syncing every photo we take, while exploiting the amazing photo capabilities of Google Photos.
 
-[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1882&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1928&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
 
 ---
 
-#### More Classes to Come...
-[Click here](https://splc.org.au/about/blog/8-blog/20-splc-beconnected-course-survey-results){:target="_blank"} to see a sample of the classes we will run soon here at SPLC!
+<a name="linux"></a>
+#### Rejuvenate Your Old Computer with Linux
+Don’t throw out your ‘old’ laptop just yet, most of the time you just need to give it an alternative operating system! Replace your Windows OS/Mac OS with Linux, a modern community-driven operating system that can run on very low hardware resources, brnging your old laptop back to life. Come to this 1-hour workshop to see Linux in action, rejuvenating computers up to 15 years old.
 
+[Enrol/More Info](https://classmanager.com.au/cbin/admin.php?Action=courses&single_course_id=1927&organisation_name=splc&from=org_home){:target="_blank"}{:.btn}
+
+---
 *SPLC training laptops generously provided by:*  
   
 <img class="img-responsive" src="img/logo_cosp.png">
