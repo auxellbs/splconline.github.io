@@ -1,6 +1,6 @@
 ---
-layout: redirect-advertising
-title: SPLC Advertising
+layout: redirect-main
+title: SPLC Tech Website
 ---
 
 # SPLC Advertising
