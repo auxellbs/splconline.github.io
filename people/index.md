@@ -1,6 +1,6 @@
 ---
-layout: default
-title: People - SPLC Tech Skills for Seniors
+layout: redirect-main
+title: SPLC Tech Website
 ---
 
 ## <a name="didi"></a> Didi Mudigdo
