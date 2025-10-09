@@ -1,6 +1,6 @@
 ---
-layout: default
-title: FREE Tech Computer & Smartphone Classes in South Perth
+layout: redirect-main
+title: SPLC 
 ---
 <img class="img-responsive" src="img/be_connected_network_partner_logo_1200x200_splc.png">  
 
