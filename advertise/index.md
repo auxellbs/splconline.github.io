@@ -1,4 +1,4 @@
 ---
 layout: redirect-main
-title: SPLC Tech Website
+title: SPLC Website
 ---
