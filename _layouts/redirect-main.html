@@ -3,7 +3,11 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="refresh" content="0; url=https://splc.org.au/" />
-  <meta name="robots" content="noindex">
+  {% if page.robots %}
+    <meta name="robots" content="{{ page.robots }}">
+  {% else %}
+    <meta name="robots" content="noindex">
+  {% endif %}
   <title>{{ page.title }}</title>
 </head>
 <body>
